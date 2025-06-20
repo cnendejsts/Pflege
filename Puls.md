@@ -47,9 +47,28 @@ in Ausnahmefällen vom Arzt
 - unmittelbare körperliche Aktivität
 - Herz-Kreislauf-System
 das Zustand von Herz und Gefäßen beeinflusst die Pulsfrequenz
-## Bradykardie
-## Tachykardie
-
+## Bradykardie < 60
+### physiologische Ursachen
+- der Ruhepuls bei Leistungssportlern  
+- bei manchen älteren Menschen  
+- Tiefschlafphase  
+### pathologische Ursachen
+- Herzinfarkt  
+- Hyperkaliämie  
+- Vergiftung  
+## Tachykardie > 100
+### physiologische Ursachen
+- bei körperlicher Anstrengung
+- unter Schmerzen
+- Angst, Schreck ...
+- in sauerstoffärmeren Regionen(auf dem Berg)
+- Tabakkonsum
+### pathologische Ursachen
+- Herzinfarkt
+- Fieber
+- Flüssigkeitsmangel
+- Kaliummangel
+- Hyperthyreose
 
 # Wahrnehmung
 Vorgang beim Reize aus der Umwelt mit Hilfe der Sinnesorgane aufgenommen und im Gehirn verarbeitet werden  
