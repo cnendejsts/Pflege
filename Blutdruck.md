@@ -46,3 +46,8 @@ Mittel(M): 22-32 cm (Standardgröße für Erwachsene)
 - wenn der Blutdruck start erhöht ist  
 - wenn eine milde Hypertonie anhält  
 - wenn blutdrucksenkende Medikamente nicht ausreichend oder zu stark wirken
+## Vorgehensweise
+1. Die Pflegeempfängerin legt ihren Arm bequem auf Herhöhe ab. Nachdem die Pflegefachkraft ihre Hände desinfiziert hat, legt sie die Blutdruckmanschette faltenfrei und luftleer um den unbekleideten Oberarm und verschließt den Klettverschluss. Die untere Kante der Manschette sollte etwa 2 Fingerbreit von der Ellenbeuge entfernt sein.  
+2. Die Pflegefachkraft steckt die Ohroliven des Stethoskops in ihre äußeren Gehörgänge.  
+3. Die Pflegefachkraft dreht das Rädchen am Manometerventil der Manschette zu. Unter Palpation der Radialisarterie wird die Manschette aufgepumpt. Nach dem letzten wahrnehmbaren Pulsschlag(dieser entspricht etwa dem systolischen Druck) pumpt die Pflegefachkraft die Manschette um weitere 30 mmHg auf.  
+4. Die Pflegefachkraft platziert den Stethoskopkopf auf die Oberarmarterie in der Ellenbeuge, öffnet das Ventil und lässt den Druck gleichmäßig aus der Manschette ab. Der Manschettendruch, bei dem das erste Klopfgeräusch zu hören ist, entspricht dem systolischen Blutdruckwert. Der Manschettendruck, unterhalb dem die Klopfgeräusche verschwinden, entspricht dem diastolischen Druck. Im Anschluss dokumentiert die Pflegefachkraft den erhobenen Wert, desinfiziert die verwendeten Materialien und nimmt die Händedesinfektion vor.  
