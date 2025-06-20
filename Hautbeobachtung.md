@@ -48,6 +48,13 @@ Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
 - verdickt
 - rissig
 ## Altersveränderungen
+- dünner
+- trockner
+- Falten
+- schlechte Wundheilung
+- weniger schwitzen
+- weniger Fettbildung
+- Altersflecken
 ## Hautpflege
 ### geeignete Waschmittel
 ### geeignete Creme
