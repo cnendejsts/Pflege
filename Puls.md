@@ -24,7 +24,7 @@ mit der Pulsuhr 15 Sekunden lang zählen, dann mit 4 multiplizieren
 leicht drücken  
 ## Indikationen/Anlässe
 - bei Aufnahme des Patienten
-- Kardiologie
+- Kardiologie, mehrmals 1 Minute lang messen
 # Wahrnehmung
 Vorgang beim Reize aus der Umwelt mit Hilfe der Sinnesorgane aufgenommen und im Gehirn verarbeitet werden  
 Wahrnehmung ist immer an die wahrnehmende Person mit ihrer Erfahrung gebunden, also sehr subjektiv.  
