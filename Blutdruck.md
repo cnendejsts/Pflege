@@ -40,3 +40,9 @@ Mittel(M): 22-32 cm (Standardgröße für Erwachsene)
 - nach OPs, um Komplikationen wie Nachblutungen erkennen und verhindern zu können
 - die blutdruckbeeinflussende Medikamente einnehmen
 - in Notfallstutaionen(Unfall, Shock, Blutverlust)
+## den Arzt informieren
+- wenn Blutdruckwerte sich unerwartet ändern  
+- wenn bei einem Patienten grenzwertig niedrige Blutdruckwerte gemessen und der Patient zusätzliche Symptome wie Blässe, Schwindel, Schwitzen oder eine Tachykardie aufweist  
+- wenn der Blutdruck start erhöht ist  
+- wenn eine milde Hypertonie anhält  
+- wenn blutdrucksenkende Medikamente nicht ausreichend oder zu stark wirken
