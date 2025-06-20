@@ -42,6 +42,11 @@ Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
 - Vasokonstriktion(bei Kälte)
 - Vasodilatation(bei Hitze)
 ## Oberfläche
+- glatt
+- schuppend
+- feucht
+- verdickt
+- rissig
 ## Altersveränderungen
 ## Hautpflege
 ### geeignete Waschmittel
