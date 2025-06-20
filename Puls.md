@@ -21,7 +21,9 @@ an der Innenseite des Handgelenks
 mit Fingerkuppen des Zeige-, Mittel- & Ringfingers getastet  
 mit der Pulsuhr 15 Sekunden lang zählen, dann mit 4 multiplizieren  
 ## A. carotis
-leicht drücken  
+- bei Bewusstlosigkeit
+- nicht zu lang/fest abdrücken
+- niemals gleichzeitig an beiden Seiten tasten
 ## A. femoralis
 ## Indikationen/Anlässe
 - bei Aufnahme des Patienten
