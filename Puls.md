@@ -22,6 +22,7 @@ mit Fingerkuppen des Zeige-, Mittel- & Ringfingers getastet
 mit der Pulsuhr 15 Sekunden lang zählen, dann mit 4 multiplizieren  
 ## A. carotis
 leicht drücken  
+## A. femoralis
 ## Indikationen/Anlässe
 - bei Aufnahme des Patienten
 - Kardiologie, mehrmals 1 Minute lang messen
