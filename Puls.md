@@ -25,6 +25,7 @@ mit der Pulsuhr 15 Sekunden lang zählen, dann mit 4 multiplizieren
 - nicht zu lang/fest abdrücken
 - niemals gleichzeitig an beiden Seiten tasten
 ## A. femoralis
+in Ausnahmefällen vom Arzt
 ## Indikationen/Anlässe
 - bei Aufnahme des Patienten
 - Kardiologie, mehrmals 1 Minute lang messen
