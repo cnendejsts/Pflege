@@ -26,7 +26,14 @@ blaue Flecken nach Trauma
 #### Rötungen
 z. B. bei Entzündungen, Hautkrankheiten, Fieber
 ## Spannungszustand der Haut
+Hautturgor
+Hautfalte am Handrücken nehmen
+Beobachten, ob sich die Haut sofort zurückbildet  
+Wenn die Hautfalte bleibt und sich verzögert zurückbildet:  
+→ Hinweis auf Dehydratation  
+Bei Ödemen (Wassereinlagerungen) kann der Hautturgor erhöht erscheinen.
 ## Temperatur der Haut
+
 ## Oberfläche
 ## Altersveränderungen
 ## Hautpflege
