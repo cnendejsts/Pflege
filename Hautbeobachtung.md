@@ -33,7 +33,14 @@ Wenn die Hautfalte bleibt und sich verzögert zurückbildet:
 → Hinweis auf Dehydratation  
 Bei Ödemen (Wassereinlagerungen) kann der Hautturgor erhöht erscheinen.
 ## Temperatur der Haut
-
+### Normale Körperkerntemperatur
+zwischen 36,1 °C und 37,4 °C
+### Periphere Temperatur
+Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
+### Thermoregulation
+- Schwitzen
+- Vasokonstriktion(bei Kälte)
+- Vasodilatation(bei Hitze)
 ## Oberfläche
 ## Altersveränderungen
 ## Hautpflege
