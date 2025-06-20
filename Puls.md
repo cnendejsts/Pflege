@@ -20,7 +20,11 @@ der Plus einseitig verändert ist
 an der Innenseite des Handgelenks  
 mit Fingerkuppen des Zeige-, Mittel- & Ringfingers getastet  
 mit der Pulsuhr 15 Sekunden lang zählen, dann mit 4 multiplizieren  
-## 
+## A. carotis
+leicht drücken  
+## Indikationen/Anlässe
+- bei Aufnahme des Patienten
+- Kardiologie
 # Wahrnehmung
 Vorgang beim Reize aus der Umwelt mit Hilfe der Sinnesorgane aufgenommen und im Gehirn verarbeitet werden  
 Wahrnehmung ist immer an die wahrnehmende Person mit ihrer Erfahrung gebunden, also sehr subjektiv.  
