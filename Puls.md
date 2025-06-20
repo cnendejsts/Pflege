@@ -40,7 +40,15 @@ in Ausnahmefällen vom Arzt
 80-110   Schulkind(7-12 Jahre)                     
 60-80    Jugendlicher(13-18 Jahre) & Erwachsene(19-64 Jahre)   
 80-90    ältere Menschen(> 64 Jahre)
-
+## Veränderung der Pulsfrequenz
+### Physiologische Faktoren
+- Geschlecht  
+- Alter  
+- unmittelbare körperliche Aktivität
+- Herz-Kreislauf-System
+das Zustand von Herz und Gefäßen beeinflusst die Pulsfrequenz
+## Bradykardie
+## Tachykardie
 
 
 # Wahrnehmung
