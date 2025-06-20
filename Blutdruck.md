@@ -9,8 +9,17 @@ mmHg = Milimeter Quecksilbersäule
 ## Hypertonie
 - Systole > 140 mmHg
 - Diastole > 90 mmHg
+### Ursachen
+- Nierenerkrankung
+- sekundäre Hypertonie: Arteriosklerose
+- primäre Hypertonie
 ## Hypotonie
 - Systole < 100 mmHg
+### Ursachen
+- zu wenig getrunken  
+- Shock  
+- Fieber  
+- Herzinsuffizienz
 ## Messtechnik
 - durch Abhorchen(das Gängigste Verfahren), Blutdruckmanschette mit Manometer und Stetoskop  
 - die Manschette wird am Oberarm parallel zum Herz angebracht
