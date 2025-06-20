@@ -57,5 +57,10 @@ Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
 - Altersflecken
 ## Hautpflege
 ### geeignete Waschmittel
+- keine Farbe
+- kein Alkohol
+- kein Parfum/Duft
+- pH-hautneutral(ca. 5.5)
+- Urea 5-10%
 ### geeignete Creme
 ### wann werden Hände eingecremt
