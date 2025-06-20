@@ -2,7 +2,11 @@
 ## Definition
 ein Maß für die Kraft, die das zirkulierende Blut auf die Gefäßwände ausübt  
 abhängig von der Pumpleistung des Herzens und dem Gefäßwiderstand der Arterien  
-## Systole
+## Physiologische Blutdruckwerte in verschiedenen Altersstufen
+120/80  Jugendlicher(13-18) & Erwachsener(19-64)
+140/90  ältere Menschen(>64 Jahre)
+mmHg = Milimeter Quecksilbersäule
+
 ## Diastole
 ## Messtechnik
 - durch Abhorchen(das Gängigste Verfahren), Blutdruckmanschette mit Manometer und Stetoskop  
