@@ -5,6 +5,7 @@ abhängig von der Pumpleistung des Herzens und dem Gefäßwiderstand der Arterie
 ## Physiologische Blutdruckwerte in verschiedenen Altersstufen
 120/80  Jugendlicher(13-18) & Erwachsener(19-64)
 140/90  ältere Menschen(>64 Jahre)
+## Einheit
 mmHg = Milimeter Quecksilbersäule
 ## Hypertonie
 - Systole > 140 mmHg
@@ -20,6 +21,10 @@ mmHg = Milimeter Quecksilbersäule
 - Shock  
 - Fieber  
 - Herzinsuffizienz
+## Pumpleistung
+## Gefäßwiderstand
+## Windkesselfunktion
+## Rechengröß "Blutdruckamplitude" & "Mittlere arterielle Druck"(MAD)
 ## Messtechnik
 - durch Abhorchen(das Gängigste Verfahren), Blutdruckmanschette mit Manometer und Stetoskop  
 - die Manschette wird am Oberarm parallel zum Herz angebracht
