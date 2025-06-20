@@ -13,4 +13,14 @@ abhängig von der Pumpleistung des Herzens und dem Gefäßwiderstand der Arterie
 - Manschettegröße
 Mittel(M): 22-32 cm (Standardgröße für Erwachsene)
 ## Fehlerquellen
-
+- Lärm
+- Patient in Unruhe
+- Kleidung
+- Manschettengröße
+## Anlässe
+- Neuaufnahme  
+- Herz-Kreislauf-Erkrankungen  
+- Hypertonie / Hypotonie  
+- nach OPs, um Komplikationen wie Nachblutungen erkennen und verhindern zu können
+- die blutdruckbeeinflussende Medikamente einnehmen
+- in Notfallstutaionen(Unfall, Shock, Blutverlust)
