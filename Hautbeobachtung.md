@@ -13,8 +13,8 @@
 #### Karotingehalt(gelblich)
 #### Rötungen bei Hitze oder Scham
 ### pathologisch
-#### Ikterus
-gelbliche Haut bei Gallen- und Lebererkrankungen
+#### Ikterus 黄疸
+gelbliche Haut bei Gallen- 胆囊 und Lebererkrankungen
 #### Blasse Haut
 z. B. bei Fieber, Anämie, Schock etc.
 #### Zyanose
