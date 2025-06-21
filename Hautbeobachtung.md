@@ -17,20 +17,20 @@
 gelbliche Haut bei Gallen- 胆囊 und Lebererkrankungen
 #### Blasse Haut
 z. B. bei Fieber, Anämie, Schock etc.
-#### Zyanose
+#### Zyanose 紫绀
 livide Verfärbung bei O₂-Mangel oder Kälte
-#### Nekrose
+#### Nekrose 坏死
 schwarze Verfärbung bei abgestorbener Haut
-#### Hämatome
-blaue Flecken nach Trauma
+#### Hämatom 淤青血肿
+blaue Flecken nach Trauma 外伤
 #### Rötungen
-z. B. bei Entzündungen, Hautkrankheiten, Fieber
+z. B. bei Entzündungen, Fieber
 ## Spannungszustand der Haut
 Hautturgor
 Hautfalte am Handrücken nehmen
 Beobachten, ob sich die Haut sofort zurückbildet  
 Wenn die Hautfalte bleibt und sich verzögert zurückbildet:  
-→ Hinweis auf Dehydratation  
+→ Hinweis auf Dehydratation 脱水
 Bei Ödemen (Wassereinlagerungen) kann der Hautturgor erhöht erscheinen.
 ## Temperatur der Haut
 ### Normale Körperkerntemperatur
