@@ -1,7 +1,7 @@
 # Hautbeobachtung
 ## Beobachtungskriterien
 - Hautfarbe
-- Hautspannung, Hauttugor
+- Hautspannung, Hautturgor
 - Hauttemperatur
 - Hautbeschaffenheit(z.B. rau, trocken, feucht)
 ## Hautfarbe
