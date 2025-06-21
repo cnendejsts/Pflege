@@ -30,23 +30,23 @@ Hautturgor
 Hautfalte am Handrücken nehmen
 Beobachten, ob sich die Haut sofort zurückbildet  
 Wenn die Hautfalte bleibt und sich verzögert zurückbildet:  
-→ Hinweis auf Dehydratation 脱水
-Bei Ödemen (Wassereinlagerungen) kann der Hautturgor erhöht erscheinen.
+→ Hinweis auf Dehydratation 脱水  
+Bei Ödem (Wassereinlagerungen) 水肿 kann der Hautturgor erhöht erscheinen.
 ## Temperatur der Haut
 ### Normale Körperkerntemperatur
 zwischen 36,1 °C und 37,4 °C
-### Periphere Temperatur
+### Periphere 外围 Temperatur
 Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
 ### Thermoregulation
 - Schwitzen
-- Vasokonstriktion(bei Kälte)
 - Vasodilatation(bei Hitze)
+- Vasokonstriktion(bei Kälte)
 ## Oberfläche
 - glatt
-- schuppend
+- schuppend 脱皮
 - feucht
 - verdickt
-- rissig
+- rissig 裂
 ## Altersveränderungen
 - dünner
 - trockner
