@@ -5,6 +5,10 @@
 - Zunge
 - Speicheldrüsen
 ## die Aufgaben von Mundhöhle
+- Speisen zerkleinern
+- Speisen während des Kauens mit Speichel vermischen
+- Nahrung auf Genießbarkeit überprüfen
+- Beim Sprechen, Atmen und bei der Abwehr von Krankheitserregern mitwirken
 ## Speicheldrüsen in Mundhöhle und ihre Aufgaben
 ## die Ziele der Mundpflege
 ## der Zweck einer Mundinspektion
