@@ -1,8 +1,8 @@
 # Mundpflege
 ## die Strukturen von Mundhöhle(Cavitas Oris)
-- Zähne
-- Gaumen
-- Zunge
+- Zähne(Dentes)
+- Gaumen(Palatum)
+- Zunge(Lingua)
 - Speicheldrüsen
 ## die Aufgaben von Mundhöhle
 - Speisen zerkleinern
@@ -10,6 +10,7 @@
 - Nahrung auf Genießbarkeit überprüfen
 - Beim Sprechen, Atmen und bei der Abwehr von Krankheitserregern mitwirken
 ## Speicheldrüsen in Mundhöhle und ihre Aufgaben
+- 
 ## die Ziele der Mundpflege
 ## der Zweck einer Mundinspektion
 ## 7 Schwer Punkte bei Mundinspektion
