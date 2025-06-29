@@ -113,3 +113,17 @@
   - bakterielle Besiedlung vermeiden
 - Beobachtung
   - Schwellung, Rötung oder Schmerzen vor dem Ohr regelmäßig kontrollieren
+## Pflegemaßnahmen bei Veränderungen in der Mundhöhle
+- Mukositis/Stomatitis
+  - Anzeichen
+    - gerötete, geschwollene Schleimhaut
+    - schmerzhaftes Schlucken
+  - Ursachen
+    - Entzündung der Mundschleimhaut
+    - oft als Begleiterkrankung z.B. bei Fieber
+    - Nebenwirkung der Chemotherapie
+  - Maßnahmen
+    - Spühlen mit Kamille, Salbei oder Myrrhe
+    - Spühlen mit Wasser oder 0,9% Kochsalzlösung
+    - Lutschen Eiswürfel
+    - Arzt hinzuziehen
