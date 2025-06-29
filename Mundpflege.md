@@ -19,6 +19,10 @@
   - Unterkieferspeicheldrüse(Glandula submandibularis)
   - Unterzungenspeicheldrüse(Glandula sublingualis)
 ## die Aufgaben von Speicheldrüsen
+- Mundspeichel produzieren, 70% davon stammen aus Unterkieferspeicheldrüsen
+- Nahrung beim Kauen anfeuchten
+- Im Speichel ist ein Enzym, das Stärke im Essen abbaut
+- Mundspeichel schützt die Mundschleimhaut vor Austrocknung
 ## die Ziele der Mundpflege
 ## der Zweck einer Mundinspektion
 ## 7 Schwer Punkte bei Mundinspektion
