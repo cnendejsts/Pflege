@@ -52,6 +52,17 @@
 - Entzündung Ohrspeicheldrüse(Parotitis)
 ## Zahnprothesenpflege: Durchführung und wichtige Hinweise
 
+## Spezielle Mundpflegemittel
+- Salbeitee  
+-> Entzündung im Mundrachenraum
+- Kamillentee
+-> Schleimhaut beruhigen
+- Butter
+-> Aufweichen & Ablösen von Borken
+- Anti**myko**tika
+- Bepanthenlösung
+-> Aufweichen & Ablösen von Borken
+-> Anfeuchten der Mundschleimhaut
 ## Patientengruppen, die besonders gefährdet sind für eine Parotitis oder eine Soorinfektion
 - bewusstseinsgetrübte, immunsupprimierte oder beatmete Personen
 - Menschen mit Diabetes mellitus
