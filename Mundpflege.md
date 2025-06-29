@@ -53,11 +53,9 @@
 ## Zahnprothesenpflege: Durchführung und wichtige Hinweise
 
 ## Patientengruppen, die besonders gefährdet sind für eine Parotitis oder eine Soorinfektion
-- alte Menschen
-- Neugeborene
-- Menschen, die Antibiotika nehmen
-- Patienten mit Krebs oder nach einer OP
-- Menschen mit schlechter Mundpflege
+- bewusstseinsgetrübte, immunsupprimierte oder beatmete Personen
+- Menschen mit Diabetes mellitus
+- Personen mit schlechter Mundhygiene oder schlecht sitzenden Prothesen
 ## Patientengruppen, bei denen täglich ein Mundinspektion erfolgen sollte
 - alte Menschen, die mit der Mundpflege Probleme haben
 - bewusstlose Patienten  
