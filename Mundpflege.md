@@ -24,6 +24,11 @@
 - Im Speichel ist ein Enzym, das Stärke im Essen abbaut
 - Mundspeichel schützt die Mundschleimhaut vor Austrocknung
 ## die Ziele der Mundpflege
+- Schleimhaut feucht und belagfrei halten
+- Mundgeruch vermeiden
+- Speichelproduktion bei Nahrungskarenz anregen
+- Infektionen vermeiden
+- Lippen geschmeidig halten
 ## der Zweck einer Mundinspektion
 ## 7 Schwer Punkte bei Mundinspektion
 ## pathologische Veränderungen der Mundhöhle und entsprechende Maßnahmen
