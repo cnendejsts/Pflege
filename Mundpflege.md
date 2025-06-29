@@ -127,3 +127,22 @@
     - Spühlen mit Wasser oder 0,9% Kochsalzlösung
     - Lutschen Eiswürfel
     - Arzt hinzuziehen
+- Pilzinfektion der Mundschleimhaut(Soor)
+  - Anzeichen
+    - weiße, festsitzende Beläge in der Mundhöhle, die sich nicht wegwischen lassen
+  - Ursachen
+    - Pilzinfektion(Candida albicans)
+  - Maßnahmen
+    - Infektionsgefahr beachten
+    - Arzt hinzuziehen
+    - Anti-Mykotikum nach Anordnung verabreichen
+    - regelmäßige Mundpflege
+- Entzündung der Ohrspeicheldrüse(Parotitis)
+  - Anzeichen
+    - sehr schmerzhafte Schwellung der Ohrspeicheldrüse
+  - Ursachen
+    - behinderter Sekretabfluss
+  - Maßnahmen
+    - Anregung der Kautätigkeit durch Brotrinde, Trockenobst, Kaugummi
+    - Parotismassage: Die Ohrspeicheldrüse wird dazu mit den Zeige- Mittel- & Ringfinger in kleinen Kreisen massiert
+    - Arzt informieren(Antibiose)
