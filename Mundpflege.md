@@ -70,3 +70,13 @@
 → Prothesen können Druckstellen oder Pilzinfektionen machen
 - Patienten, die beatmet werden  
 → Bei ihnen besteht ein hohes Risiko für Infektionen im Mund
+## Soor
+- Mundpflege
+  - mind. 2x täglich
+  - Zähne, Zunge, Gaumen, Schleimhaut reinigen
+- Mundinspektion
+  - tägliche Kontrolle auf
+  - Rötungen,
+  - weiße Beläge,
+  - Bläschen,
+  - Schmerzen
