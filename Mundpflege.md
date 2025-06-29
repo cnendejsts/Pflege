@@ -1,5 +1,9 @@
 # Mundpflege
-## die Strukturen von Mundhöhle
+## die Strukturen von Mundhöhle(Cavitas Oris)
+- Zähne
+- Gaumen
+- Zunge
+- Speicheldrüsen
 ## die Aufgaben von Mundhöhle
 ## Speicheldrüsen in Mundhöhle und ihre Aufgaben
 ## die Ziele der Mundpflege
