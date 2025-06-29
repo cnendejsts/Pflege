@@ -70,7 +70,7 @@
 → Prothesen können Druckstellen oder Pilzinfektionen machen
 - Patienten, die beatmet werden  
 → Bei ihnen besteht ein hohes Risiko für Infektionen im Mund
-## Soor
+## Soorprophylaxe
 - Mundpflege
   - mind. 2x täglich
   - Zähne, Zunge, Gaumen, Schleimhaut reinigen
@@ -80,3 +80,27 @@
   - weiße Beläge,
   - Bläschen,
   - Schmerzen
+- Feuchthalten der Mundschleimhaut
+  - ausreichend trinken
+  - feuchte Tupfer
+  - ggf. Speichelersatzmittel
+- Prothesenpflege
+  - täglich gründlich reinigen, über Nacht trocken lagern
+- Ernährung
+  - zuckerarme, weiche Kost
+  - bei Bedarf pilzhemmende Mundgele(nach ärztlicher Anordnung)
+- Mundspülung
+  - Chlorhexidin(nach ärztlicher Verordnung)
+## Parotitisprophylaxe
+- Speichelfluss anregen
+  - viel trinken
+  - Kaugummi oder saure Bonbons(falls möglich)
+  - Mundbewegung fördern
+- Wangenmassage
+  - von außen vom Kiefergelenk nach vorne-unten ausstreichen
+- Lagerung
+  - Kopf hochlagern zur besseren Speichelabflussförderung
+- Mundpflege
+  - bakterielle Besiedlung vermeiden
+- Beobachtung
+  - Schwellung, Rötung oder Schmerzen vor dem Ohr regelmäßig kontrollieren
