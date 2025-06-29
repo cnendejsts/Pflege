@@ -34,6 +34,14 @@
 - es können zeitnah Interventionen erfolgen
 ## 7 Schwer Punkte bei Mundinspektion
 ## pathologische Veränderungen der Mundhöhle und entsprechende Maßnahmen
+- Mukositis/Stomatitis
+- Einrisse der Lippen(Rhagaden)
+- Pilzinfektion der Mundschleimhaut(Soor)
+- Borken
+- Aphten
+- Paradontose(Zahnfleischschwund)
+- Lippenherpes(Herpes labialis)
+- Entzündung Ohrspeicheldrüse(Parotitis)
 ## Zahnprothesenpflege: Durchführung und wichtige Hinweise
 ## Patientengruppen, die besonders gefährdet sind für eine Parotitis oder eine Soorinfektion
 ## Patientengruppen, bei denen täglich ein Mundinspektion erfolgen sollte
