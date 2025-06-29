@@ -30,6 +30,8 @@
 - Infektionen vermeiden
 - Lippen geschmeidig halten
 ## der Zweck einer Mundinspektion
+- Veränderungen werden frühzeitig erkannt
+- es können zeitnah Interventionen erfolgen
 ## 7 Schwer Punkte bei Mundinspektion
 ## pathologische Veränderungen der Mundhöhle und entsprechende Maßnahmen
 ## Zahnprothesenpflege: Durchführung und wichtige Hinweise
