@@ -9,8 +9,16 @@
 - Speisen während des Kauens mit Speichel vermischen
 - Nahrung auf Genießbarkeit überprüfen
 - Beim Sprechen, Atmen und bei der Abwehr von Krankheitserregern mitwirken
-## Speicheldrüsen in Mundhöhle und ihre Aufgaben
-- 
+## Speicheldrüsen in Mundhöhle
+- kleine ~
+  - in der Schleimhaut(Mukosa) von Lippen, Wangen und Gauben liegen
+  - 600-1000 Stück
+- große ~
+  - außerhalb der Mundschleimhaut liegen
+  - Ohrspeicheldrüse(Glandula Parotis)
+  - Unterkieferspeicheldrüse(Glandula submandibularis)
+  - Unterzungenspeicheldrüse(Glandula sublingualis)
+## die Aufgaben von Speicheldrüsen
 ## die Ziele der Mundpflege
 ## der Zweck einer Mundinspektion
 ## 7 Schwer Punkte bei Mundinspektion
