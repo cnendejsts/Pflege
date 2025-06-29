@@ -42,7 +42,7 @@
 - Zahnstatus
 - Sprache
 ## pathologische Veränderungen der Mundhöhle und entsprechende Maßnahmen
-- Mukositis/Stomatitis
+- Schleimhautentzündung(Mukositis/Stomatitis)
 - Einrisse der Lippen(Rhagaden)
 - Pilzinfektion der Mundschleimhaut(Soor)
 - Borken
@@ -51,5 +51,22 @@
 - Lippenherpes(Herpes labialis)
 - Entzündung Ohrspeicheldrüse(Parotitis)
 ## Zahnprothesenpflege: Durchführung und wichtige Hinweise
+
 ## Patientengruppen, die besonders gefährdet sind für eine Parotitis oder eine Soorinfektion
+- alte Menschen
+- Neugeborene
+- Menschen, die Antibiotika nehmen
+- Patienten mit Krebs oder nach einer OP
+- Menschen mit schlechter Mundpflege
 ## Patientengruppen, bei denen täglich ein Mundinspektion erfolgen sollte
+- alte Menschen, die mit der Mundpflege Probleme haben
+- bewusstlose Patienten  
+→ Sie können den Mund nicht selbst reinigen
+- Menschen mit Schluckstörungen (z. B. nach Schlaganfall)  
+→ Essensreste bleiben im Mund und können Entzündungen machen
+- Menschen mit schlechtem Immunsystem  
+→ Zum Beispiel Krebspatienten oder Menschen mit HIV
+- Menschen mit Zahnprothesen  
+→ Prothesen können Druckstellen oder Pilzinfektionen machen
+- Patienten, die beatmet werden  
+→ Bei ihnen besteht ein hohes Risiko für Infektionen im Mund
