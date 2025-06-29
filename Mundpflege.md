@@ -33,6 +33,14 @@
 - Veränderungen werden frühzeitig erkannt
 - es können zeitnah Interventionen erfolgen
 ## 7 Schwer Punkte bei Mundinspektion
+- Lippen
+- Schleimhaut
+- Zunge
+- Zahnfleisch
+- Speichel
+- Rachen
+- Zahnstatus
+- Sprache
 ## pathologische Veränderungen der Mundhöhle und entsprechende Maßnahmen
 - Mukositis/Stomatitis
 - Einrisse der Lippen(Rhagaden)
