@@ -51,7 +51,25 @@
 - Lippenherpes(Herpes labialis)
 - Entzündung Ohrspeicheldrüse(Parotitis)
 ## Zahnprothesenpflege: Durchführung und wichtige Hinweise
-
+- Vorbereitung
+  - Händedesinfektion, unsterile Handschuhe anziehen
+  - zuerst Ober-, dann Unterprothese entnehmen
+  - Waschbecken mit Wasser füllen oder Handtuch/Nierenschale einlegen
+- Renigung
+  - Prothese unter fließendem Wasser mit Zahnbürste + Renigungsmittel säubern
+  - gründlich abspühlen, in Nierenschale zurücklegen
+- Mundpflege
+  - Zahnfleisch mit weicher Bürste massieren, ggf. Haftcreme-Reste entfernen
+  - Mund spühlen lassen
+  - Mundhöhle mit Spatel + Taschenlampe inspizieren(Druckstellen? Speisereste?)
+- Nachbereitung
+  - ggf. Haftcreme sparsam auftragen(Grundsatz:weniger ist mehr, 3-4 Tupfer)
+  - Sitz der Prothese kontrollieren, Befinden erfragen
+  - Materialien entsorgen, Handschuhe auszihen, Händedesinfektion
+  - Nachbereitung laut Pflegekonzept beachten
+- Hinweise
+  - Tragen über Nacht ist umstritten - abhängig vom Wunsch und Zustand der Schleimhaut
+  - bei gereizter Schleimhaut: Prothese nachts herausnehmen zur Schonung
 ## Spezielle Mundpflegemittel
 - Salbeitee  
 -> Entzündung im Mundrachenraum
