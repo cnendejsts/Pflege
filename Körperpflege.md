@@ -31,6 +31,15 @@
 ## Maßnahmen bei Personalhygiene
 ## 5 Indikationen der hygienischen Händedesinfektion
 ## 3 Übertragungswege von Infektion
+- Tröpfcheninfektion
+  - durch Husten oder Niesen
+  - Grippe, Corona
+- Schmierinfektion
+  - durch kontaminierte Oberflächen
+  - Hepatitis A
+- aerogene Infektion
+  - durch Einatmen feinster infektiöser Partikel
+  - Tuberkulose
 ## teile der persönlichen Schutzausrüstung bei Isolation
 ## min. 2 krankmachende Erreger
 ## Pflegeprobleme und Ressourcen von Pflegeempfängern
