@@ -38,7 +38,7 @@
   - durch kontaminierte Oberflächen
   - Hepatitis A
 - aerogene Infektion
-  - durch Einatmen feinster infektiöser Partikel
+  - durch Einatmen feinster infektiöser Partikel in der Luft
   - Tuberkulose
 ## teile der persönlichen Schutzausrüstung bei Isolation
 ## min. 2 krankmachende Erreger
