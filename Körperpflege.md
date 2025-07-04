@@ -16,13 +16,17 @@
 - durch Schweiß, Reibung und Wärme
 - Besonders gefährdet sind übergewichtige und bettlägerige Patienten
 ## Risikofaktoren der Intertrigo
+- Übergewicht
+- Bewegnungsmangel
+- starkes Schwitzen
 ### gefährdete Körperstellen der Intertrigo
 - zwischen den Fingern
 - in den Achselhöhlen
 - unter der Brust
-### Maßnahmen bei Intertrigo
+### Intertrigoprophylaxe
 - die Haut trocken halten
 - Hautfalten regelmäßig kontrollieren
+- ggf. Antimykotische Salbe auftragen
 ## Funktionen des Fettgewebes
 ## Maßnahmen bei Personalhygiene
 ## 5 Indikationen der hygienischen Händedesinfektion
