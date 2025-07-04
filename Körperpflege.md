@@ -10,10 +10,19 @@
 ## was Sie bei der Hautfarbe beobachten können
 ## Unterschied zwischen Felder- und Leistenhaut
 ## 2 Hautanhangsgebilde
-## was ist intertrigo
+## Intertrigo
+### Was ist Intertrigo?
+- Entzüdung der Haut, die vor allem in feuchten Hautfalten auftritt
+- durch Schweiß, Reibung und Wärme
+- Besonders gefährdet sind übergewichtige und bettlägerige Patienten
 ## Risikofaktoren der Intertrigo
-## gefährdete Körperstellen der Intertrigo
-## Maßnahmen bei Intertrigo
+### gefährdete Körperstellen der Intertrigo
+- zwischen den Fingern
+- in den Achselhöhlen
+- unter der Brust
+### Maßnahmen bei Intertrigo
+- die Haut trocken halten
+- Hautfalten regelmäßig kontrollieren
 ## Funktionen des Fettgewebes
 ## Maßnahmen bei Personalhygiene
 ## 5 Indikationen der hygienischen Händedesinfektion
