@@ -29,12 +29,14 @@
 - ggf. Antimykotische Salbe auftragen
 ## Funktionen des Fettgewebes
 ## Maßnahmen bei Personalhygiene
-- Händehygine
-- Schutzkleidung
-- Flächendesinfektion & Reinigung des Patientenumfelds
-- Sterilisation von gebrauchten Instrumenten
-- Schutz vor Stich- & Schnittverletzungen
-- Einhaltung der Hustenetikette
+- kein Schmuck, Piercings oder künstliche Nägel
+- keine private Kleidung
+- Körperhygiene(Duschen, Hautpflege etc.)
+- kurze, saubere Fingernägel
+- geschlossene Schuhe
+- lange Haare geschlossen tragen
+- evtl. Bart kürzen
+- Unterarme frei lassen(nicht durch Jacken, lange Ärmel o.ä. bedecken)
 ## 5 Indikationen der hygienischen Händedesinfektion
 - vor & nach Patientenkontakt
 - vor aseptischen Tätigkeiten
