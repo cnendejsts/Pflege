@@ -36,6 +36,11 @@
 - Schutz vor Stich- & Schnittverletzungen
 - Einhaltung der Hustenetikette
 ## 5 Indikationen der hygienischen Händedesinfektion
+- vor & nach Patientenkontakt
+- vor aseptischen Tätigkeiten
+- nach Kontakt mit potenziell infektiösem Material(Sputum, Urin, Speichel, Stuhlgang)
+- nach Kontakt mit Oberflächen auf der unmittelbaren Patientenumgebung
+- nach dem Ausziehen von Handschuen
 ## 3 Übertragungswege von Infektion
 - Tröpfcheninfektion
   - durch Husten oder Niesen
