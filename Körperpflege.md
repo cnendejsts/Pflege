@@ -29,6 +29,12 @@
 - ggf. Antimykotische Salbe auftragen
 ## Funktionen des Fettgewebes
 ## Maßnahmen bei Personalhygiene
+- Händehygine
+- Schutzkleidung
+- Flächendesinfektion & Reinigung des Patientenumfelds
+- Sterilisation von gebrauchten Instrumenten
+- Schutz vor Stich- & Schnittverletzungen
+- Einhaltung der Hustenetikette
 ## 5 Indikationen der hygienischen Händedesinfektion
 ## 3 Übertragungswege von Infektion
 - Tröpfcheninfektion
