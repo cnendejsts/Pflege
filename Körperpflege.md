@@ -17,6 +17,8 @@
 - Syndets sind milder und gut für empfindliche oder trockene Haut.
 ## Kriterien einer geeigneten Handcreme
 ## Situationen, in denen Sie sich die Hände waschen und eincremen
+- Dienstende
+- Pause
 ## warum die Haut- und insbesondere Handpflege wichtig ist für Ihnen beruflichen Alltag
 ## die Aufgaben der Haut
 - Schutz vor Umwelteinflüssen(Wärme, Kälte, Strahlen, Mikroorganismen)
