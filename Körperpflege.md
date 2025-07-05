@@ -67,7 +67,14 @@
   - Entzündung, Fieber(pathologisch)
   - bei Hitze, Scham(physiologisch)
 ## Unterschied zwischen Felder- und Leistenhaut
-
+- Leistenhaut
+  - zeigt individuelles Leistenmuster(Fingerabdruck)
+  - enthält nur Schweißdrüsen, frei von Haaren
+  - vorkommen: Handinnenfläche, Fußsohlen
+- Felderhaut
+  - Hautoberfläche zeigt kleine Felder
+  - enthält Haare, Schweißendrüsen, Talgdrüsen, Duftdrüsen
+  - vorkommen: alle übrigen Körperregionen
 ## 2 Hautanhangsgebilde
 - Haare
 - Nägel
