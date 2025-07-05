@@ -13,6 +13,13 @@
 ## Situationen, in denen Sie sich die Hände waschen und eincremen
 ## warum die Haut- und insbesondere Handpflege wichtig ist für Ihnen beruflichen Alltag
 ## die Aufgaben der Haut
+- Schutz vor Umwelteinflüssen(Wärme, Kälte, Strahlen, Mikroorganismen)
+- Schweißbildung
+- Bildung einer Vorstufe des Vitamin D
+- Sinnesorgan(Berührung, Druck, Schmerz, Vibration)
+- Speicherung von Fett
+- Teil der Immunabwehr
+- Kommunikationsmittel(Erröten)
 ## 3 Schichten der Haut
 - Oberhaut(Epidermis)
 - Lederaut(Dermis)
