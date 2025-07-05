@@ -16,6 +16,10 @@
 - Seife ist basisch und kann die Haut schädigen.
 - Syndets sind milder und gut für empfindliche oder trockene Haut.
 ## Kriterien einer geeigneten Handcreme
+- schnell einziehend
+- nicht fettend
+- mit Desinfektionsmittel kompatibel sein
+- kein Einfluss auf Schutzhandschuh
 ## Situationen, in denen Sie sich die Hände waschen und eincremen
 - Dienstende
 - Pause
