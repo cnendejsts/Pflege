@@ -15,6 +15,12 @@
 ## die Aufgaben der Haut
 ## 3 Schichten der Haut
 ## 2 Drüsen der Haut und ihre Aufgaben
+- Talgdrüsen
+  - Haut & Haare vor Austrocknung bewahren
+  - geschmeidig halten
+- Schweißdrüsen
+  - Schweiß bilden
+  - Säureschutzmantel
 ## was Sie bei der Hautfarbe beobachten können
 ## Unterschied zwischen Felder- und Leistenhaut
 ## 2 Hautanhangsgebilde
@@ -23,7 +29,7 @@
 - Entzüdung der Haut, die vor allem in feuchten Hautfalten auftritt
 - durch Schweiß, Reibung und Wärme
 - Besonders gefährdet sind übergewichtige und bettlägerige Patienten
-## Risikofaktoren der Intertrigo
+### Risikofaktoren der Intertrigo
 - Übergewicht
 - Bewegnungsmangel
 - starkes Schwitzen
