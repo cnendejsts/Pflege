@@ -14,6 +14,9 @@
 ## warum die Haut- und insbesondere Handpflege wichtig ist für Ihnen beruflichen Alltag
 ## die Aufgaben der Haut
 ## 3 Schichten der Haut
+- Oberhaut(Epidermis)
+- Lederaut(Dermis)
+- Unterhaut(Subcutis)
 ## 2 Drüsen der Haut und ihre Aufgaben
 - Talgdrüsen
   - Haut & Haare vor Austrocknung bewahren
