@@ -13,6 +13,8 @@
 - Sebostase
   - Nachlassende Aktivität der Talgdrüsen, Haut wird trockener
 ## Unterschied zwischen Seife und Syndets
+- Seife ist basisch und kann die Haut schädigen.
+- Syndets sind milder und gut für empfindliche oder trockene Haut.
 ## Kriterien einer geeigneten Handcreme
 ## Situationen, in denen Sie sich die Hände waschen und eincremen
 ## warum die Haut- und insbesondere Handpflege wichtig ist für Ihnen beruflichen Alltag
