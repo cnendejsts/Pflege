@@ -36,6 +36,28 @@
   - Schweiß bilden，abkühlen
   - zum Säureschutzmantel der Haut beitragen
 ## was Sie bei der Hautfarbe beobachten können
+- _Melanin_gehalt(von hell bis dunkel)
+  - Muttermale
+  - Altersflecken
+  - Sommersprossen
+- _Karotin_gehalt(gelblich)
+- Ikterus
+  - gelblich
+  - bei Gallen- und Lebererkrankung
+- blasse Haut
+  - bei Fieber, Anämie, Schock
+- Zyanose
+  - livid
+  - bei O₂-Mangel / Kälte
+- Nekrose
+  - schwarz
+  - bei abgestorbener Haut
+- Hämatome
+  - blaue Flecken
+  - nach Trauma
+- Rötungen
+  - Entzündung, Fieber(pathologisch)
+  - bei Hitze, Scham(physiologisch)
 ## Unterschied zwischen Felder- und Leistenhaut
 
 ## 2 Hautanhangsgebilde
