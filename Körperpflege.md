@@ -119,3 +119,16 @@
 - Clostridium difficile -> Durchfall / Darmentzündung
 - Mycobacterium tuberculosis -> Tuberkulose
 ## Pflegeprobleme und Ressourcen von Pflegeempfängern
+- Pflegeprobleme
+  - Schmerzen
+  - Immobilität
+  - Inkontinenz
+  - Dekubitusrisiko
+  - Schluckstörungen
+  - Verwirrtheit / Angst
+- Ressourcen
+  - selbst essen oder trinken kann
+  - kooperationsbereit
+  - Familie hilft mit
+  - gute Orientierung
+  - Motivation zur Bewegung
