@@ -33,7 +33,10 @@
   - zum Säureschutzmantel der Haut beitragen
 ## was Sie bei der Hautfarbe beobachten können
 ## Unterschied zwischen Felder- und Leistenhaut
+
 ## 2 Hautanhangsgebilde
+- Haare
+- Nägel
 ## Intertrigo
 ### Was ist Intertrigo?
 - Entzüdung der Haut, die vor allem in feuchten Hautfalten auftritt
