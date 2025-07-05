@@ -109,5 +109,11 @@
   - durch Einatmen feinster infektiöser Partikel in der Luft
   - Tuberkulose
 ## teile der persönlichen Schutzausrüstung bei Isolation
+- Handschuhe
+- Schutzkittel
+- Mund-Nasen-Schutz
+- Schutzbrille
+- Haube
+- Schuhüberzieher
 ## min. 2 krankmachende Erreger
 ## Pflegeprobleme und Ressourcen von Pflegeempfängern
