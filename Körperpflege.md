@@ -116,4 +116,6 @@
 - Haube
 - Schuhüberzieher
 ## min. 2 krankmachende Erreger
+- Clostridium difficile -> Durchfall / Darmentzündung
+- Mycobacterium tuberculosis -> Tuberkulose
 ## Pflegeprobleme und Ressourcen von Pflegeempfängern
