@@ -24,6 +24,9 @@
 - Dienstende
 - Pause
 ## warum die Haut- und insbesondere Handpflege wichtig ist für Ihnen beruflichen Alltag
+- Schutz vor Infektion
+- Erhalt der Hautbarriere
+- Vermeidung von Hautkrankheiten(z.B. Dermatitis)
 ## die Aufgaben der Haut
 - Schutz vor Umwelteinflüssen(Wärme, Kälte, Strahlen, Mikroorganismen)
 - Schweißbildung
