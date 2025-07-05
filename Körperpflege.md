@@ -1,4 +1,8 @@
-## Nenen Sie vier Tobuzonen nach Hall
+## 4 Tobuzonen nach Hall
+- intime Distanz: 0-45 cm
+- persönliche ~: 45-120 cm
+- gesellschaftliche ~: 120-350 cm
+- öffentliche ~: >350 cm
 ## wie sich die Haut im Alter verändert
 - Altersflecken
   - unregelmäßige Pigmentproduktion in den Melanozyten
