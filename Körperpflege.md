@@ -1,5 +1,13 @@
 ## Nenen Sie vier Tobuzonen nach Hall
 ## wie sich die Haut im Alter verändert
+- Altersflecken
+  - unregelmäßige Pigmentproduktion in den Melanozyten
+- Elastizitätsverlust
+  - geringerer Kollagengehalt
+  - verbinderter Hautturgor durch abnehmende Wasserbindungsfähigkeit
+  - Schwund des Unterhautfettgewebes
+- Sebostase
+  - Nachlassende Aktivität der Talgdrüsen, Haut wird trockener
 ## Unterschied zwischen Seife und Syndets
 ## Kriterien einer geeigneten Handcreme
 ## Situationen, in denen Sie sich die Hände waschen und eincremen
