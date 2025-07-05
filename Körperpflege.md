@@ -99,6 +99,13 @@
 - Hautfalten regelmäßig kontrollieren
 - ggf. Antimykotische Salbe auftragen
 ## Funktionen des Fettgewebes
+- Wärmespeicherung
+  - Körper vor Kälte schutzen
+- Energiespeicherung
+  - Fett ist ein Energiespeicher für schlechte Zeiten
+- Körperform
+  - gibt dem Körper seine Form
+- innere Organe und Knochen vor Durck und Stößen schutzen
 ## Maßnahmen bei Personalhygiene
 - kein Schmuck, Piercings oder künstliche Nägel
 - keine private Kleidung
