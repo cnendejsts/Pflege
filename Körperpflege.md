@@ -29,8 +29,8 @@
   - Haut & Haare vor Austrocknung bewahren
   - geschmeidig halten
 - Schweißdrüsen
-  - Schweiß bilden
-  - Säureschutzmantel
+  - Schweiß bilden，abkühlen
+  - zum Säureschutzmantel der Haut beitragen
 ## was Sie bei der Hautfarbe beobachten können
 ## Unterschied zwischen Felder- und Leistenhaut
 ## 2 Hautanhangsgebilde
