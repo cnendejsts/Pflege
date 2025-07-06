@@ -117,7 +117,7 @@
 - Unterarme frei lassen(nicht durch Jacken, lange Ärmel o.ä. bedecken)
 ## 5 Indikationen der hygienischen Händedesinfektion
 - vor & nach Patientenkontakt
-- vor _aseptisch_en Tätigkeiten
+- vor *aseptisch*en Tätigkeiten
 - nach Kontakt mit potenziell infektiösem Material(Sputum, Urin, Speichel, Stuhlgang)
 - nach Kontakt mit Oberflächen auf der unmittelbaren Patientenumgebung
 - nach dem Ausziehen von Handschuen
