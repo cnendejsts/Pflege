@@ -153,7 +153,7 @@
   - Maßnahmen
     - Infektionsgefahr beachten
     - Arzt hinzuziehen
-    - Anti-Mykotikum nach Anordnung verabreichen
+    - Antimykotika nach Anordnung verabreichen
     - regelmäßige Mundpflege
 - Entzündung der Ohrspeicheldrüse(Parotitis)
   - Anzeichen
