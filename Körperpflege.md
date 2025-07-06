@@ -126,7 +126,7 @@
   - durch Husten oder Niesen
   - Grippe, Corona
 - Schmierinfektion
-  - durch kontaminierte Oberflächen
+  - durch *kontaminiert*e Oberflächen
   - Hepatitis A
 - aerogene Infektion
   - durch Einatmen feinster infektiöser Partikel in der Luft
