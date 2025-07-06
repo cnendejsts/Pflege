@@ -1,5 +1,0 @@
-- Kontraktur  
-- Wickeln
-- Stillen
-- entbunden
-- 
