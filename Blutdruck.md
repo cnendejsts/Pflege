@@ -26,7 +26,7 @@ mmHg = Milimeter Quecksilbersäule
 ## Windkesselfunktion
 ## Rechengröß "Blutdruckamplitude" & "Mittlere arterielle Druck"(MAD)
 ## Messtechnik
-- durch Abhorchen(das Gängigste Verfahren), Blutdruckmanschette mit Manometer und Stetoskop  
+- durch Abhorchen(das Gängigste Verfahren), Blutdruckmanschette mit Manometer und Stethoskop  
 - die Manschette wird am Oberarm parallel zum Herz angebracht
 - die Manschette wird nur 2 Pumpstöße weiter aufgepumpt nachdem der Puls nicht mehr tastbar ist
 - Arm wird locker neben dem Körper positioniert
