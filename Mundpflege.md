@@ -132,7 +132,7 @@
 - Beobachtung
   - Schwellung, Rötung oder Schmerzen vor dem Ohr regelmäßig kontrollieren
 ## Pflegemaßnahmen bei Veränderungen in der Mundhöhle
-- Mukositis/Stomatitis
+- Stomatitis
   - Anzeichen
     - gerötete, geschwollene Schleimhaut
     - schmerzhaftes Schlucken
