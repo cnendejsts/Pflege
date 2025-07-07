@@ -1,6 +1,4 @@
-# Tel. Empfang
-4000
-# HNO Ambulanz
+- Tel. Empfang 4000
 - Sono(Ultraschall)
 - Rhinometrie
-# 
+- Spirometrie
