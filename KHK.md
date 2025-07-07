@@ -2,3 +2,5 @@
 - Sono(Ultraschall)
 - Rhinometrie
 - Spirometrie
+- Röntgen/DVT/CT/MRT
+- Demo Raum
