@@ -63,7 +63,15 @@
     - Azetongeruch(obstartig)
       - Diabetes Mellitus, beim Fasten
 - Menge in 24 Stunden
-  
+  - Oligurie(< 500 ml)
+    - Flüssigkeitsmangel
+    - Herzinsuffizienz
+  - Anurie(< 100 ml)
+    - Nierenversangen
+    - Schock
+  - Polyurie(> 2000 ml)
+    - Diabetes Mellitus
+    - Deuretika
 ## Urinuntersuchungsmethoden
 - Spontanurin
 - Mittelstrahlurin
