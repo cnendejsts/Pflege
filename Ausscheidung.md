@@ -28,4 +28,8 @@
 - Angehörige informieren und einbeziehen.
 - Kinder trösten und beruhigen.
 ## wie fühlt sich ein Patient beim Erbrechen?
+- Unangenehme Empfindung im Rachen und Oberbauch.
+- Gefühl von Übelkeit, Kontrollverlust, Schwäche, Zittrigkeit.
+- Häufig Blässe, Schweißausbruch, vermehrter Speichelfluss.
+- Situation wird oft als unerträglich und belastend empfunden.
 ## pflegerische Maßnahmen bei Übelkeit & Erbrechen
