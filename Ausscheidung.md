@@ -16,3 +16,5 @@
 ## welche Risikofaktoren begünstigen Obstipation
 ## welche Maßnahmen können einer Obstipation entgegenwirken?
 ## wie können Sie die Pflegeempfänger aktiv beim Erbrechen unterstützen?
+## wie fühlt sich ein Patient beim Erbrechen?
+## pflegerische Maßnahmen bei Übelkeit & Erbrechen
