@@ -20,5 +20,12 @@
 ## welche Risikofaktoren begünstigen Obstipation
 ## welche Maßnahmen können einer Obstipation entgegenwirken?
 ## wie können Sie die Pflegeempfänger aktiv beim Erbrechen unterstützen?
+- Pflegeempfänger während des Erbrechens nicht allein lassen.
+- Oberkörper erhöht positionieren (zur Aspirationsprophylaxe).
+- Hilfsmittel (Nierenschale, Zellstoff) in Reichweite bereitlegen.
+- Mundhygiene nach dem Erbrechen anbieten.
+- Regelmäßig lüften, Raum nicht überheizen.
+- Angehörige informieren und einbeziehen.
+- Kinder trösten und beruhigen.
 ## wie fühlt sich ein Patient beim Erbrechen?
 ## pflegerische Maßnahmen bei Übelkeit & Erbrechen
