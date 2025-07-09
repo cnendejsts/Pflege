@@ -40,6 +40,14 @@
   - Klient **lässt** die Hilfsmittelversorgung / personelle Unterstützung **nicht zu**
 ## Miktionsstörungen
 ## Beobachtungskriterien für Urin
+- Farbe
+  - physiologisch
+    - rot
+      - Rote Beete
+    - gelb-braun
+      - Rhabarber
+    - grünlich-blau
+      - Methylenblau
 ## Urinuntersuchungsmethoden
 - Spontanurin
 - Mittelstrahlurin
