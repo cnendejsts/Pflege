@@ -44,10 +44,10 @@
   - physiologisch
     - rot
       - Rote Beete
-    - gelb-braun
-      - Rhabarber
-    - grünlich-blau
-      - Methylenblau
+    - blau
+      - Amitriptylin
+    - orange
+      - Vitamin B Präparate
   - pathologisch
     - dundelgelb-braun
       - Flüssigkeitsmangel
