@@ -12,7 +12,8 @@
 - Inkontinenz
   - unwillkürlicher Verlust von Urin, also die Unfähigkeit, Ausscheidungen zurückzuhalten.
 ## welche Auswirkung hat eine Inkontinenz?
-## nenen Sie Risikofaktoren für Harninkontinenz. unterteilen Sie diese je nach Risikoarten
+## Nennen Sie Risikofaktoren für Harninkontinenz – geordnet nach Risikoarten
+
 ## welche Inkontinenz gibt es? Form & Ursachen?
 ## verschiedene Kontinenzprofile
 - Kontinenz
