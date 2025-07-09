@@ -15,6 +15,29 @@
 ## nenen Sie Risikofaktoren für Harninkontinenz. unterteilen Sie diese je nach Risikoarten
 ## welche Inkontinenz gibt es? Form & Ursachen?
 ## verschiedene Kontinenzprofile
+- Kontinenz
+  - willkürlich Harn lassen
+  - ohne Hilfsmittel
+  - Toilettengang ohne personelle Unterstützung
+- unabhängig(von Personal) erreichte Kontinenz
+  - willkürlich Harn lassen
+  - **mit** Hilfsmittel
+  - Toilettengang ohne personelle Unterstützung
+- abhängig(von Personal) erreichte Kontinenz
+  - willkürlich Harn lassen
+  - **mit oder ohne** Hilfsmittel(egal)
+  - Toilettengang mit personeller Unterstützung
+- unabhängig kompensierte Inkontinenz
+  - unwillkürlich Harn lassen
+  - **mit** Hilfsmittel
+  - Toilettengang ohne personelle Unterstützung
+- abhängig kompensierte Inkontinenz
+  - unwillkürlich Harn lassen
+  - **mit** Hilfsmittel
+  - Toilettengang mit personeller Unterstützung
+- nicht kompensierte Inkontinenz
+  - unwillkürlich Harn lassen
+  - Klient **lässt** die Hilfsmittelversorgung / personelle Unterstützung **nicht zu**
 ## Miktionsstörungen
 ## Beobachtungskriterien für Urin
 ## Urinuntersuchungsmethoden
