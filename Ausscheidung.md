@@ -7,3 +7,10 @@
 ## welche Inkontinenz gibt es? Form & Ursachen?
 ## verschiedene Kontinenzprofile
 ## Miktionsstörungen
+## Beobachtungskriterien für Urin
+## Urinuntersuchungsmethoden
+## Was ist beim Umgang mit Blasendauerkatheter zu beachten?
+## Vorgang der Defäkation
+## Beobachtungskriterien für Stuhlgang
+## Obstipation
+## 
