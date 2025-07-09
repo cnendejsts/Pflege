@@ -13,7 +13,15 @@
   - unwillkürlicher Verlust von Urin, also die Unfähigkeit, Ausscheidungen zurückzuhalten.
 ## welche Auswirkung hat eine Inkontinenz?
 ## Nennen Sie Risikofaktoren für Harninkontinenz – geordnet nach Risikoarten
-
+- allgemeine Risikofaktoren
+  - zunehmendes Alter
+  - geistige & körperliche Einschränkungen
+    - Schlaganfall
+    - Demenz
+    - Diabetes mellitus
+    - Querschnittslähmung
+    - hormonelle Veränderung
+  - 
 ## welche Inkontinenz gibt es? Form & Ursachen?
 ## verschiedene Kontinenzprofile
 - Kontinenz
