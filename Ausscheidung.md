@@ -133,7 +133,18 @@
 - Der Beutel muss unter Blasenniveau fixiert werden
 - Der Beutel darf keinen Kontakt zum Boden haben
 ## Vorgang der Defäkation
-## Beobachtungskriterien für Stuhlgang
+## Beobachtungskriterien Stuhl
+- Menge
+  - 120-300g/Tag
+- Farbe
+  - gelblich-bräunlich
+- Konsistenz
+  - dickbreiig bis fest, geformt und einheitlich
+- Geruch
+  - abhängig von Nahrungszusammensetzung + Verweildauer im Darm
+- Zusammensetzung
+  - 75% Wasser
+  - 25% Trockensubstanzen
 ## Obstipation
 ## welche Risikofaktoren begünstigen Obstipation
 ## welche Maßnahmen können einer Obstipation entgegenwirken?
