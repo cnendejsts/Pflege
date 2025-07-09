@@ -13,6 +13,13 @@
 ## Miktionsstörungen
 ## Beobachtungskriterien für Urin
 ## Urinuntersuchungsmethoden
+- Spontanurin
+- Mittelstrahlurin
+- Morgenurin
+- Katheterurin
+- Sammelurin (24h)
+- Beutelurin (bei Säuglingen)
+- Außerdem Schnelltests mit Teststreifen (U-Status) 
 ## Was ist beim Umgang mit Blasendauerkatheter zu beachten?
 ## Vorgang der Defäkation
 ## Beobachtungskriterien für Stuhlgang
