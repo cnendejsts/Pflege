@@ -33,3 +33,11 @@
 - Häufig Blässe, Schweißausbruch, vermehrter Speichelfluss.
 - Situation wird oft als unerträglich und belastend empfunden.
 ## pflegerische Maßnahmen bei Übelkeit & Erbrechen
+- Pflegeanamnese zur Ursache und Häufigkeit erstellen.
+- Auf appetitliche, individuelle Speisenauswahl achten.
+- Kleine, nicht zu heiße und geruchsarme Mahlzeiten anbieten.
+- Ausreichende Flüssigkeitszufuhr gewährleisten.
+- Pflegeempfänger im Sitzen essen lassen.
+- Nach dem Erbrechen: Ruhe, Mundpflege, Begleitung beim Aufstehen.
+- Bei anhaltender Übelkeit/Erbrechen: Arzt informieren, Antiemetika verabreichen (auf Anordnung).
+- Regelmäßig Elektrolyte und Flüssigkeitshaushalt kontrollieren.
