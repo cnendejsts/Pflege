@@ -138,6 +138,10 @@
   - 120-300g/Tag
 - Farbe
   - gelblich-bräunlich
+  - psysologisch
+    - todo
+  - pathologisch
+    - todo
 - Konsistenz
   - dickbreiig bis fest, geformt und einheitlich
 - Geruch
