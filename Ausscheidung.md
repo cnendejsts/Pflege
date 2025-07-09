@@ -21,6 +21,10 @@
 - Beutelurin (bei Säuglingen)
 - Außerdem Schnelltests mit Teststreifen (U-Status) 
 ## Was ist beim Umgang mit Blasendauerkatheter zu beachten?
+- Wenn der Schlauch verdreht oder geknickt ist, wird der Abfluss des Urins unterbrochen.
+- Der Senior wird in die Handhabung des Systems eingewiesen. Insbesondere muss jede Manipulation am Katheter unterbleiben.
+- Der Beutel muss unter Blasenniveau fixiert werden.
+- Der Beutel darf keinen Kontakt zum Boden haben.
 ## Vorgang der Defäkation
 ## Beobachtungskriterien für Stuhlgang
 ## Obstipation
