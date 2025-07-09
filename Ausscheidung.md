@@ -13,4 +13,6 @@
 ## Vorgang der Defäkation
 ## Beobachtungskriterien für Stuhlgang
 ## Obstipation
-## 
+## welche Risikofaktoren begünstigen Obstipation
+## welche Maßnahmen können einer Obstipation entgegenwirken?
+## wie können Sie die Pflegeempfänger aktiv beim Erbrechen unterstützen?
