@@ -48,6 +48,22 @@
       - Rhabarber
     - grünlich-blau
       - Methylenblau
+  - pathologisch
+    - dundelgelb-braun
+      - Flüssigkeitsmangel
+    - bierfarben mit gelbem Schaum
+      - Bilirubinurie
+    - wasserhell ins grünliche schimmernd
+      - Diabetes millitus & Diabetes insipidus
+- Geruch
+  - physiologisch
+    - typischer Geruch nach Speißen
+      - Kaffee, Spargel, Knoblauch
+  - pathologisch
+    - Azetongeruch(obstartig)
+      - Diabetes Mellitus, beim Fasten
+- Menge in 24 Stunden
+  
 ## Urinuntersuchungsmethoden
 - Spontanurin
 - Mittelstrahlurin
