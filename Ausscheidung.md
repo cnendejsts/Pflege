@@ -7,8 +7,10 @@
 ## Miktionsreflex
 ## Definieren "Kontinenz" & "Inkontinenz"
 - Kontinenz
-  - Klient geht eigenständig & selbstinitiativ zur Toilette, wenn er Harndrang verspürt
+  - Klient geht eigenständig & selbstinitiativ zur passenden Zeit zur Toilette, wenn er Harndrang verspürt
   - benötigt keine Hilfsmittel / Traningsmaßnahmen, um Urin zu halten
+- Inkontinenz
+  - 
 ## welche Auswirkung hat eine Inkontinenz?
 ## nenen Sie Risikofaktoren für Harninkontinenz. unterteilen Sie diese je nach Risikoarten
 ## welche Inkontinenz gibt es? Form & Ursachen?
