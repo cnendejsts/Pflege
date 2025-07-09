@@ -21,7 +21,23 @@
     - Diabetes mellitus
     - Querschnittslähmung
     - hormonelle Veränderung
-  - 
+  - Einnahme von Medikamenten
+    - Diuretika
+    - Opiate
+    - Psychopharmaka
+  - Harnwegsinfekte
+  - Zunahme von Körpergewicht
+  - Obstipation(=Verstopfung)
+- geschlechterspezifische Risikofaktoren
+  - Frauen
+    - Schwangerschaft & Entbindung
+    - Hysterektomie
+    - Menopause
+    - orale Östrogen bei Menopause
+    - genetisch Aspekt
+    - zu viel Sport kann den Beckenboden der Frauen belasten
+  - Männer
+    - Prostataerkrankung
 ## welche Inkontinenz gibt es? Form & Ursachen?
 ## verschiedene Kontinenzprofile
 - Kontinenz
