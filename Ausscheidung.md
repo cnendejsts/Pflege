@@ -4,3 +4,6 @@
 ## Definieren "Kontinenz" & "Inkontinenz"
 ## welche Auswirkung hat eine Inkontinenz?
 ## nenen Sie Risikofaktoren für Harninkontinenz. unterteilen Sie diese je nach Risikoarten
+## welche Inkontinenz gibt es? Form & Ursachen?
+## verschiedene Kontinenzprofile
+## Miktionsstörungen
