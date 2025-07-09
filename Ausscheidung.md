@@ -1,4 +1,8 @@
 ## Welche 4 Organe bilden die ableitenden Harnwege?
+- Nierenbecken (Pelvis renalis)
+- Harnleiter (Ureter)
+- Harnblase (Vesica urinaria)
+- Harnröhre (Urethra)
 ## physiologischer Weg des Urins von Niere bis Ausscheidung
 ## Miktionsreflex
 ## Definieren "Kontinenz" & "Inkontinenz"
