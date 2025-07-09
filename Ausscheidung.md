@@ -53,8 +53,8 @@
       - Flüssigkeitsmangel
     - bierfarben mit gelbem Schaum
       - Bilirubinurie
-    - wasserhell ins grünliche schimmernd
-      - Diabetes millitus & Diabetes insipidus
+    - milchig-trüb
+      - Phosphaturie
 - Geruch
   - physiologisch
     - typischer Geruch nach Speißen
