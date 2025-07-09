@@ -150,6 +150,7 @@
   - 75% Wasser
   - 25% Trockensubstanzen
 ## Obstipation
+erschwerte und unvollständige **Darm**entleerung mit verminderter Häufigkeit
 ## welche Risikofaktoren begünstigen Obstipation
 ## welche Maßnahmen können einer Obstipation entgegenwirken?
 ## wie können Sie die Pflegeempfänger aktiv beim Erbrechen unterstützen?
