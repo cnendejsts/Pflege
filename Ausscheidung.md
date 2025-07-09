@@ -72,6 +72,16 @@
   - Polyurie(> 2000 ml)
     - Diabetes Mellitus
     - Deuretika
+- Veränderung des Harnstrahls
+  - Frühzeichen
+    - häufiger Harndrang
+    - häufige Entleerung
+    - verzögerter Beginn der Miktion
+    - schwacher Harnstrahl
+  - später
+    - unvollständige Entleerung mit hohem Restharn, evtl. Tröpfcheninkontinenz bei gefüllter Blase
+  - Ursach
+    - Prostataadenom
 ## Urinuntersuchungsmethoden
 - Spontanurin
 - Mittelstrahlurin
