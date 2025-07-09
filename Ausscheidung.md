@@ -107,6 +107,18 @@
     - unvollständige Entleerung mit hohem Restharn, evtl. Tröpfcheninkontinenz bei gefüllter Blase
   - Ursach
     - Prostataadenom
+- Unfähigkeit zur willkürlichen Steuerung der Blasenentleerung
+-> Harninkontinenz
+- vermehrtes nächtliches Wasserlassen
+-> **Nykt**urie
+- schmerzhafte Harnentleerung
+-> **Alg**urie
+- schmerzhafte, erschwerte Harnentleerung
+-> **Dys**urie
+- häufige Entleerung kleiner Urinmengen
+-> **Pollakis**urie
+- Harnblase lässt sich nicht entleeren
+-> Harn**verhalt**
 ## Urinuntersuchungsmethoden
 - Spontanurin
 - Mittelstrahlurin
