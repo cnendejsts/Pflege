@@ -144,9 +144,13 @@
 - Farbe
   - gelblich-bräunlich
   - psysologisch
-    - todo
+    - grün-schwarz
+      - Mekonium(Kinderspech)
+    - rötlich
+      - Rote Bete
   - pathologisch
-    - todo
+    - schwarz & glänzend "Teerstuhl"
+      - verdautes Blut aus dem Magen oder oberen Darmabschnitten
 - Konsistenz
   - dickbreiig bis fest, geformt und einheitlich
 - Geruch
