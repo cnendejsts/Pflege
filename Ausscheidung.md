@@ -164,6 +164,14 @@ erschwerte und unvollständige **Darm**entleerung mit verminderter Häufigkeit
 - psychische Belastung
 - schwangeschaft nach Geburt
 ## welche Maßnahmen können einer Obstipation entgegenwirken?
+- ausreichende Flüssigkeitzufuhr
+- mehr Bewegung
+- Vollkornprodukte wählen
+- Gemüse & Obst essen
+- Stress vermeiden
+- Toilettentraining
+- Laxanzien(Abführmittel)
+- passende Sitzposition
 ## wie können Sie die Pflegeempfänger aktiv beim Erbrechen unterstützen?
 - Pflegeempfänger während des Erbrechens nicht allein lassen.
 - Oberkörper erhöht positionieren (zur Aspirationsprophylaxe).
