@@ -157,6 +157,12 @@
 ## Obstipation
 erschwerte und unvollständige **Darm**entleerung mit verminderter Häufigkeit
 ## welche Risikofaktoren begünstigen Obstipation
+- ballaststoffarme Ernährung
+- Opiate
+- geringe Flüssigkeitzufuhr
+- wenige Bewegung
+- psychische Belastung
+- schwangeschaft nach Geburt
 ## welche Maßnahmen können einer Obstipation entgegenwirken?
 ## wie können Sie die Pflegeempfänger aktiv beim Erbrechen unterstützen?
 - Pflegeempfänger während des Erbrechens nicht allein lassen.
