@@ -12,6 +12,9 @@
 - Inkontinenz
   - unwillkürlicher Verlust von Urin, also die Unfähigkeit, Ausscheidungen zurückzuhalten.
 ## welche Auswirkung hat eine Inkontinenz?
+- Dekubitus- und Harnwegsinfektionsrisiko
+- Schlafstörung durch nächtliches Wasserlassen
+- Scham / Angst bei Kontrollverlust
 ## Nennen Sie Risikofaktoren für Harninkontinenz – geordnet nach Risikoarten
 - allgemeine Risikofaktoren
   - zunehmendes Alter
