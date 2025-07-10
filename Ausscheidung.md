@@ -141,6 +141,8 @@
 ## Beobachtungskriterien Stuhl
 - Menge
   - 120-300g/Tag
+  - pathologisch
+    - Zöliakie
 - Farbe
   - gelblich-bräunlich
   - psysologisch
@@ -153,6 +155,11 @@
       - verdautes Blut aus dem Magen oder oberen Darmabschnitten
 - Konsistenz
   - dickbreiig bis fest, geformt und einheitlich
+  - pathologisch
+    - flüssig
+      - Diarrhö bei Darminfektion
+    - fester & trockener als normal
+      - Obstipation
 - Geruch
   - abhängig von Nahrungszusammensetzung + Verweildauer im Darm
 - Zusammensetzung
