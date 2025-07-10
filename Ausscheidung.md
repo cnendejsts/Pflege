@@ -133,6 +133,11 @@
 - Der Beutel muss unter Blasenniveau fixiert werden
 - Der Beutel darf keinen Kontakt zum Boden haben
 ## Vorgang der Defäkation
+- Stuhl sammelt sich im Rektum und dehnt die Wand
+- Das Dehnungssignal öffnet reflexhaft den inneren Schließmuskel und erzeugt Stuhldrang
+- Der äußere Schließmuskel hält willentlich zurück oder lässt los
+- Bei Loslassen drücken Beckenboden-Entspannung und Bauchpresse den Stuhl hinaus
+- Nach der Entleerung kontrahieren Schließmuskeln, der Beckenboden hebt sich und die Kontinenz ist wiederhergestellt
 ## Beobachtungskriterien Stuhl
 - Menge
   - 120-300g/Tag
