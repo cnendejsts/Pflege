@@ -4,15 +4,15 @@
 - Harnblase (Vesica urinaria)
 - Harnröhre (Urethra)
 ## physiologischer Weg des Urins von Niere bis Ausscheidung
-1. Niere:  
-Urin wird in den Nephronen der Nierenrinde gebildet.  
-2. Nierenbecken (Pelvis renalis):  
+1. **Niere**:  
+Urin wird in der Niere gebildet.    
+2. **Nierenbecken (Pelvis renalis)**:  
 Urin sammelt sich im Nierenbecken.  
-3. Harnleiter (Ureter):  
+3. **Harnleiter (Ureter)**:  
 Der Urin fließt durch die Harnleiter zur Blase.  
-4. Harnblase (Vesica urinaria):  
+4. **Harnblase (Vesica urinaria)**:  
 Urin wird in der Blase gespeichert.  
-5. Harnröhre (Urethra):  
+5. **Harnröhre (Urethra)**:  
 Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.  
 ## Miktionsreflex
 1. Die Blase füllt sich mit Urin
