@@ -5,6 +5,12 @@
 - Harnröhre (Urethra)
 ## physiologischer Weg des Urins von Niere bis Ausscheidung
 ## Miktionsreflex
+1. Die Blase füllt sich mit Urin
+2. Dehnungsrezeptoren in der Blasenwand melden den Füllstand ans Rückenmark
+3. Das Gehirn entscheidet, ob jetzt entleert werden kann
+4. Bei Erlaubnis aktiviert das Rückenmark den Reflex
+5. Der Blasenmuskel zieht sich zusammen, die Schließmuskeln öffnen sich
+6. Der Urin wird durch die Harnröhre ausgeschieden
 ## Definieren "Kontinenz" & "Inkontinenz"
 - Kontinenz
   - Klient geht eigenständig & selbstinitiativ zur passenden Zeit zur Toilette, wenn er Harndrang verspürt
