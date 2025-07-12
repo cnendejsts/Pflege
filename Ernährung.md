@@ -199,7 +199,20 @@
 ## Problematik im Umgang mit Dysphagie bei Nahrungsaufnahme
 ## Hilfsmittel bei Essen und Trinken
 ## Hilfsbedarf bei Essen und Trinken und entsprechende Maßnahmen der Hilfestellung und des Hilfsmitteleinsatzes planen
-## Dehydration und Ursachen für mangelnde Zufuhr und vermehrte Ausscheidung
+## Dehydration
+### Definition
+Austrocknung/Flüssigkeitsmangel
+### Ursachen für mangelnde Zufuhr
+- Schluckstörung
+- Appetitlosigkeit
+- Demenz
+- fehlendes Durstgefühl
+- Übelkeit
+### Ursachen für vermehrte Ausscheidung
+- Fieber
+- Schwitzen
+- Durchfall
+- Erbrechen
 ## Flüssigkeitsbedarf
 ## Maßnahmen, die Flüssigkeitszufuhr erhöhen(in einem Fall)
 ## chronologische Reihenfolge der Nahrung durch Verdauungstrakt(deutsche und lateinische Begriffe)
