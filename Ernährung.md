@@ -52,6 +52,9 @@
   - Stimmung & Gefühle wie Einsamkeit, Heimweh, Ärger, Liebe
   - Appetitlosigkeit - Kummerspeck
 - soziokulturell
+  - soziale Beziehung - gemeinsames Essen
+  - finanzielle Mittel
+  - kulturelle Gewohnheit
 - umgebungsabhängig
   - Jahreszeit, saisonales Obst & Gemüse
   - Umweltkatasrtrphen
