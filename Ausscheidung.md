@@ -63,7 +63,7 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
   - bei Männern häufig in Folge einer radikalen Prostatektomie
 - Überlauf-
   - Prostatavergrößerung
-  - MS
+  - Multiple Sklerose(MS)
   - Neuropathien
   - Schlaganfall
   - Medikamentennebenwirkung
@@ -71,9 +71,11 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
   - Demenz
   - MS
   - M. Parkinson
-  - 
+  - Schlaganfall
 - Reflex-
+  - Querschnittlähmung
 - extraurethrale Inkontinenz
+  - Fistelbildung, angeborene Fehlbildung
 ## verschiedene Kontinenzprofile
 - Kontinenz
   - willkürlich Harn lassen
