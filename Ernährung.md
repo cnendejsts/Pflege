@@ -53,6 +53,10 @@
   - Appetitlosigkeit - Kummerspeck
 - soziokulturell
 - umgebungsabhängig
+  - Jahreszeit, saisonales Obst & Gemüse
+  - Umweltkatasrtrphen
+  - Angebot von Nahrung
+    - Je reicher eine Gesellschaft, umso mehr Wert wird auf Genussmittel gelegt
 - politisch-ökonomisch
 ## Regeln, Verhaltensweisen & Rituale in Esskultur
 ## Energiebedarf
