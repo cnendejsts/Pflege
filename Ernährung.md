@@ -188,7 +188,7 @@
 - sozialer Rückzug
 - psychische Belastung
 - Tod
-## Aspirationsprophylaxe
+### Aspirationsprophylaxe
 - kontinuierliche Anwesenheit
 - Oberkörperhochlagerung
 - Inspektion der Mundhöhle vor dem Essen
