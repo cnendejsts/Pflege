@@ -54,7 +54,7 @@
 - soziokulturell
   - soziale Beziehung - gemeinsames Essen
   - finanzielle Mittel
-  - kulturelle Gewohnheit
+  - kulturelle Gewohnheit(auf dem Boden, schmatzen)
 - umgebungsabhängig
   - Jahreszeit, saisonales Obst & Gemüse
   - Umweltkatasrtrphen
