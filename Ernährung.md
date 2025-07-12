@@ -188,7 +188,14 @@
 - Räuspern(fast ständig), raune, heisere, feuchte Stimme
 - gurgelnde Sprache, Stimmverschlechterung
 - Speichel oder Essenreste laufen aus dem Mund
-## prophylaxe gegen Aspirationsgefahr und in einem Fall anwenden
+## Aspirationsprophylaxe
+- kontinuierliche Anwesenheit
+- Oberkörperhochlagerung
+- Inspektion der Mundhöhle vor dem Essen
+- probeschlucken beobachten
+- zuerst breiige Nahrungsmittel
+- bis Nahrungmittel vollständig geschluckt worden ist warten
+- Oberkörperhochlagerung nach dem Essen für 20-30 Minuten beibehalten
 ## Problematik im Umgang mit Dysphagie bei Nahrungsaufnahme
 ## Hilfsmittel bei Essen und Trinken
 ## Hilfsbedarf bei Essen und Trinken und entsprechende Maßnahmen der Hilfestellung und des Hilfsmitteleinsatzes planen
