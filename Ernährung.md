@@ -29,7 +29,12 @@
   - vegetarische Gerichte
 - Famile
   - Kinder übernehmen oft die Essgewohnheiten ihrer Familie
-## in einem Fall Einflussfaktoren & Bedürfnisse bezüglich des Ess- und Trinkverhaltens
+## in einem Fall Einflussfaktoren & Bedürfnisse bezüglich Ernährungverhalten
+- körperlich
+- psychisch
+- soziokulturell
+- umgebungsabhängig
+- politisch-ökonomisch
 ## Regeln, Verhaltensweisen & Rituale in Esskultur
 ## Energiebedarf
 ## Grund- & Leistungsbedarf einer Person mit Hilfe der Harris-Benedict-Formel und dem PAL-Wert
