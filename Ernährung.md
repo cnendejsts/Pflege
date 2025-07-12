@@ -48,6 +48,9 @@
     - Durchfall
     - Reflux
 - psychisch
+  - Angst vor Vergiftung, Depression, Suchterkrankung
+  - Stimmung & Gefühle wie Einsamkeit, Heimweh, Ärger, Liebe
+  - Appetitlosigkeit - Kummerspeck
 - soziokulturell
 - umgebungsabhängig
 - politisch-ökonomisch
