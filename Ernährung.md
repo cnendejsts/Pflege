@@ -58,6 +58,9 @@
   - Angebot von Nahrung
     - Je reicher eine Gesellschaft, umso mehr Wert wird auf Genussmittel gelegt
 - politisch-ökonomisch
+  - Lebensmittelgesetze(Zusätze)
+  - Vorhandensein von Nahrungsmitteln
+  - Schönheitsideal
 ## Regeln, Verhaltensweisen & Rituale in Esskultur
 ## Energiebedarf
 ## Grund- & Leistungsbedarf einer Person mit Hilfe der Harris-Benedict-Formel und dem PAL-Wert
