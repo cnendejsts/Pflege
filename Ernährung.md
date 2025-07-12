@@ -184,7 +184,10 @@
 - psychische Belastung
 - Tod
 ## Anzeichen für Schluckstörung und in einem Fall erkennen
-
+- häufiges Verschlucken, Husten und Würgen
+- Räuspern(fast ständig), raune, heisere, feuchte Stimme
+- gurgelnde Sprache, Stimmverschlechterung
+- Speichel oder Essenreste laufen aus dem Mund
 ## prophylaxe gegen Aspirationsgefahr und in einem Fall anwenden
 ## Problematik im Umgang mit Dysphagie bei Nahrungsaufnahme
 ## Hilfsmittel bei Essen und Trinken
