@@ -145,7 +145,18 @@
 ## was bei Nahrungsaufnahme in Mundhöhle passiert
 ## physiologischer Schluckvorgang
 ## Ursachen und Folgen von Aspiration und Dysphagie
+- Schlaganfall
+- Schädel-Hirn-Trauma
+- Demenz
+- nach längerer Beatmung
+- multiples Sklerose, Morbus Parkinson
+- Entzündung im Mundraum wie z.B. Angina tonsillaris, Stomatitis, Mundbodenabszesse
+- Verletzung und OP im Mund-, Kiefer-, Zahn- und HNO-Bereich
+- Tumor und Entzündung im Kehlkopfraum
+- Schädigung der Mund- und Ösophagusschleimhaut durch Verätzung oder Bestrahlung
+- Ösophagusatresie
 ## Anzeichen für Schluckstörung und in einem Fall erkennen
+
 ## prophylaxe gegen Aspirationsgefahr und in einem Fall anwenden
 ## Problematik im Umgang mit Dysphagie bei Nahrungsaufnahme
 ## Hilfsmittel bei Essen und Trinken
