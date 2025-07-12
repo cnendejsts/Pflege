@@ -57,7 +57,23 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
     - zu viel Sport kann den Beckenboden der Frauen belasten
   - Männer
     - Prostataerkrankung
-## welche Inkontinenz gibt es? Form & Ursachen?
+## welche Inkontinenzform gibt es? Ursachen?
+- Belastung-
+  - bei Frauen aufgrund einer Beckenbodeninsuffizienz
+  - bei Männern häufig in Folge einer radikalen Prostatektomie
+- Überlauf-
+  - Prostatavergrößerung
+  - MS
+  - Neuropathien
+  - Schlaganfall
+  - Medikamentennebenwirkung
+- Drang-
+  - Demenz
+  - MS
+  - M. Parkinson
+  - 
+- Reflex-
+- extraurethrale Inkontinenz
 ## verschiedene Kontinenzprofile
 - Kontinenz
   - willkürlich Harn lassen
