@@ -65,6 +65,18 @@
   - Vorhandensein von Nahrungsmitteln
   - Schönheitsideal
 ## Regeln, Verhaltensweisen & Rituale in Esskultur
+- Regeln
+  - Erst essen, wenn alle am Tisch sitzen
+  - Kein lautes Schmatzen oder Schlürfen
+  - Ältere Personen beginnen mit dem Essen zuerst
+- Verhaltensweisen
+  - Langsames und bewusstes Essen
+  - Mehrgängige Mahlzeiten (z. B. Vorspeise, Hauptgericht, Dessert in Frankreich)
+  - Teilen von Speisen in asiatischen Kulturen üblich
+- Rituale
+  - Tischgebet vor dem Essen (z. B. in christlichen Familien)
+  - Sonntagsbraten als Familienessen (z. B. in Deutschland)
+  - Traditionelles Essen bei Hochzeiten, Beerdigungen oder Taufen
 ## Energiebedarf
 ## Grund- & Leistungsbedarf einer Person mit Hilfe der Harris-Benedict-Formel und dem PAL-Wert
 ## vergleichen und beurteilen den errechneten Energiebedarf mit den zugeführten Kalorien
