@@ -144,7 +144,8 @@
   - pro Tag 30 bis 60 Minuten moderate körperliche Aktivität helfen dabei, Gewicht zu regulieren
 ## was bei Nahrungsaufnahme in Mundhöhle passiert
 ## physiologischer Schluckvorgang
-## Ursachen und Folgen von Aspiration und Dysphagie
+## Dysphagie
+### Ursachen und Folgen von Aspiration und 
 - Schlaganfall
 - Schädel-Hirn-Trauma
 - Demenz
