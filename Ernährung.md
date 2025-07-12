@@ -31,6 +31,22 @@
   - Kinder übernehmen oft die Essgewohnheiten ihrer Familie
 ## in einem Fall Einflussfaktoren & Bedürfnisse bezüglich Ernährungverhalten
 - körperlich
+  - schlechter Zahnstatus, fehlende Zähne, Alter
+  - fehlende Kraft zum selbstständigen Essen
+  - mangelnde, fehlende Bewegung -> Appetit, Adipositas
+  - Schluckstörung
+  - Erkrankungen des Bewegungsapparates
+    - Arthrose
+    - Osteoporose
+    - Rückenschmerzen
+  - neurologische Erkrankungen
+    - arkinson
+    - Schlaganfall
+    - Multiple Sklerose
+  - Verdauungsprobleme
+    - Obstipation
+    - Durchfall
+    - Reflux
 - psychisch
 - soziokulturell
 - umgebungsabhängig
