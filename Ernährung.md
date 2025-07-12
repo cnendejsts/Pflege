@@ -150,7 +150,7 @@
 - Räuspern(fast ständig), raune, heisere, feuchte Stimme
 - gurgelnde Sprache, Stimmverschlechterung
 - Speichel oder Essenreste laufen aus dem Mund
-### Ursachen und Folgen
+### Ursachen
 - Schlaganfall
 - Schädel-Hirn-Trauma
 - Demenz
@@ -161,6 +161,15 @@
 - Tumor und Entzündung im Kehlkopfraum
 - Schädigung der Mund- und Ösophagusschleimhaut durch Verätzung oder Bestrahlung
 - Ösophagusatresie
+### Folgen
+- Aspirationsgefahr
+- Aspirationspneumonie
+- Mangelernährung
+- Gewichtsverlust
+- Dehydration
+- Angst vor dem Essen / Nahrungsverweigerung
+- soziale Isolation
+- Erschöpfung bei verlängerter Essenszeit
 ## Aspiration
 ### Ursachen
 - reduzierte Zungenbeweglichkeit
