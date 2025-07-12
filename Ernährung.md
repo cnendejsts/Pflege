@@ -145,6 +145,11 @@
 ## was bei Nahrungsaufnahme in Mundhöhle passiert
 ## physiologischer Schluckvorgang
 ## Dysphagie
+### Anzeichen
+- häufiges Verschlucken, Husten und Würgen
+- Räuspern(fast ständig), raune, heisere, feuchte Stimme
+- gurgelnde Sprache, Stimmverschlechterung
+- Speichel oder Essenreste laufen aus dem Mund
 ### Ursachen und Folgen
 - Schlaganfall
 - Schädel-Hirn-Trauma
@@ -183,11 +188,6 @@
 - sozialer Rückzug
 - psychische Belastung
 - Tod
-## Anzeichen für Schluckstörung und in einem Fall erkennen
-- häufiges Verschlucken, Husten und Würgen
-- Räuspern(fast ständig), raune, heisere, feuchte Stimme
-- gurgelnde Sprache, Stimmverschlechterung
-- Speichel oder Essenreste laufen aus dem Mund
 ## Aspirationsprophylaxe
 - kontinuierliche Anwesenheit
 - Oberkörperhochlagerung
