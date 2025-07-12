@@ -171,6 +171,18 @@
   - Säuglinge
 - Sprechen beim Essen
 - langanhaltende Mundtrockenheit
+### Folgen
+- Fremdkörper, die bis in die Lunge gelangen, schädigen das Gewebe, welches mit Entzündung reagiert -> Aspirationspneumonie
+- gefährlich, wenn
+  - Erbrochenes in die Luftwege gelangt
+  - Nahrung ist mit Salzsäure und Verdauungsenzym aus Magen durchsetzt ist
+  - greifen die Bronchialschleimhaut sehr stark an
+  - wird regelrecht angedaut
+- Aspiration ohne Anzeichen von Husten, Atemnot
+- Nahrungsverweigerung aus Angst, sich zu verschlucken -> Gewichtsabnahme und Dehydration
+- sozialer Rückzug
+- psychische Belastung
+- Tod
 ## Anzeichen für Schluckstörung und in einem Fall erkennen
 
 ## prophylaxe gegen Aspirationsgefahr und in einem Fall anwenden
