@@ -145,7 +145,7 @@
 ## was bei Nahrungsaufnahme in Mundhöhle passiert
 ## physiologischer Schluckvorgang
 ## Dysphagie
-### Ursachen und Folgen von Aspiration und 
+### Ursachen und Folgen
 - Schlaganfall
 - Schädel-Hirn-Trauma
 - Demenz
@@ -156,6 +156,21 @@
 - Tumor und Entzündung im Kehlkopfraum
 - Schädigung der Mund- und Ösophagusschleimhaut durch Verätzung oder Bestrahlung
 - Ösophagusatresie
+## Aspiration
+### Ursachen
+- reduzierte Zungenbeweglichkeit
+  - Schlaganfall
+  - nach Narkose
+  - nach Zahnarztbesuch
+- verzögerter Schluckvorgang
+  - Entzündung im Mundbodenbereich
+  - Mandelentzündung
+- fehlender Schluckvorgang
+  - Schlaganfall
+- noch nicht voll entwickelter Schluckvorgang
+  - Säuglinge
+- Sprechen beim Essen
+- langanhaltende Mundtrockenheit
 ## Anzeichen für Schluckstörung und in einem Fall erkennen
 
 ## prophylaxe gegen Aspirationsgefahr und in einem Fall anwenden
