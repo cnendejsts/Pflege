@@ -275,7 +275,24 @@ Pflegekräfte müssen:
 - Eierbecher und Teller mit Saugfuss
 - Schneidehilfe
 - Tellerranderhöhung
-## Hilfsbedarf bei Essen und Trinken und entsprechende Maßnahmen der Hilfestellung und des Hilfsmitteleinsatzes planen
+## Hilfebedarf bei Essen und Trinken und entsprechende Maßnahmen der Hilfestellung und des Hilfsmitteleinsatzes planen
+- Hilfebedarf erkennen
+  - Patient kann Besteck oder Becher nciht selbstständig benutzen
+  - zittern
+  - Schluckstörung (Dysphagie) vorhanden
+  - geringes Bewusstsein oder Appetitlosigkeit
+- Maßnahmen planen
+  - Nahrung anpassen (z.B. weich, püriert, angedickt)
+  - kleine Portionen anbieten
+  - aufrechte Sitzposition sichern
+  - Zeit lassen zu kauen
+  - Patient motivieren und loben
+- Hilfsmittel einsetzen
+  - Rutschfester Teller mit Saugfuß
+  - Löffel mit gebogenem Griff
+  - Tellerranderhöhung
+  - Schnabelbecher
+  - Strohhalm
 ## Dehydration
 ### Definition
 Austrocknung/Flüssigkeitsmangel
