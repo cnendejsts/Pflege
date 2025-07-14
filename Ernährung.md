@@ -211,6 +211,60 @@
 - bis Nahrungmittel vollständig geschluckt worden ist warten
 - Oberkörperhochlagerung nach dem Essen für 20-30 Minuten beibehalten
 ## Problematik im Umgang mit Dysphagie bei Nahrungsaufnahme
+13. Der Umgang mit Dysphagie (Schluckstörung) bei der Nahrungsaufnahme stellt in der Pflegepraxis eine große Herausforderung dar – sowohl für Pflegekräfte als auch für Betroffene. Hier sind die wichtigsten Problematiken übersichtlich zusammengefasst:
+
+⸻
+
+🔴 1. Gefahr der Aspiration
+	•	Nahrung oder Flüssigkeit kann in die Luftröhre statt in die Speiseröhre gelangen.
+	•	→ Folge: Verschlucken, Hustenreiz, Aspirationspneumonie (Lungenentzündung durch eingeatmete Nahrung/Flüssigkeit).
+
+⸻
+
+🔴 2. Mangelernährung und Dehydration
+	•	Patient:innen vermeiden Essen oder Trinken aus Angst vor Verschlucken.
+	•	→ Folge: Gewichtsverlust, Flüssigkeitsmangel, Elektrolytstörungen, Schwäche, Infektanfälligkeit.
+
+⸻
+
+🔴 3. Soziale Isolation
+	•	Essen ist ein soziales Ereignis – durch Scham oder Angst meiden Betroffene Gemeinschaftsessen.
+	•	→ Folge: Rückzug, depressive Verstimmungen, Schamgefühl.
+
+⸻
+
+🔴 4. Eingeschränkte Lebensqualität
+	•	Lieblingsspeisen dürfen nicht mehr gegessen werden.
+	•	→ Folge: Verlust von Genuss, Unzufriedenheit, Frustration.
+
+⸻
+
+🔴 5. Erhöhte Pflegebedürftigkeit
+	•	Betroffene benötigen oft Unterstützung beim Essen, beim Anreichen von Getränken oder bei der Mundpflege.
+	•	→ Zeit- und Personalaufwand steigen in der Pflege.
+
+⸻
+
+🔴 6. Ungeeignete Kostformen
+	•	Zu feste, trockene oder krümelige Nahrung kann leicht zur Aspiration führen.
+	•	→ Anpassung der Nahrungskonsistenz (z. B. püriert, angedickt) ist notwendig, wird aber manchmal nicht konsequent umgesetzt.
+
+⸻
+
+🔴 7. Koordinations- und Wahrnehmungsprobleme
+	•	Häufig bei neurologischen Erkrankungen wie Schlaganfall, Parkinson oder Demenz.
+	•	→ Schluckreflex ist gestört oder verzögert.
+
+⸻
+
+🟢 Fazit / Pflegehinweis:
+
+Pflegekräfte müssen:
+	•	Frühzeitig Dysphagie erkennen
+	•	Angepasste Kost und Getränke anbieten (z. B. angedickt, püriert)
+	•	Sitzposition und Umgebung optimieren
+	•	Multidisziplinär arbeiten (z. B. mit Logopädie)
+	•	Geduldig und beobachtend begleiten
 ## Hilfsmittel bei Essen und Trinken
 - Antirutschmatte
 - Besteck mit gebogener Klinge
