@@ -332,3 +332,26 @@ Durch die Speiseröhre (Ösophagus) gelangt die geschluckte Nahrung aus der Mund
 - Speicherung und Durchmischung des Mageninhaltes
 - portionsweise Weitergabe an den Zwölffingerdarm
 ## Funktion und Aufbau der Schleimhäute der einzelnen Organe(Magen inkl. Zellen, Dünndarm, Dickdarm) des Verdauungstraktes
+- Magen
+  - Nebenzellen
+    - muzinhaltiger Magenschleim
+  - Belegzellen
+    - Salzsäure (HCL)
+    - Intrinsic-Faktor
+  - Hauptzellen
+    - Pepsinogen/Pepsin
+- Dickdarm
+  - Aufgabe: Rückresorption von Wasser und Elektrolyten
+  - Blinddarm(Caecum) mit Wurmfortsatz(Appendix vermiformis)
+  - aufsteigender Dickdarm(Colon ascendens)
+  - querlaufender Dickdarm(Colon transversum)
+  - absteigender Dickdarm(Colon descendens)
+  - Sigma(Colon Sigmoideum)
+  - Mastdarm(Rektum)
+- Dünndarmschleimhaut
+  - Aufgabe: Resorption
+  - Dünndarm: Duodenum, Jejunum, Ileum
+  - Falten
+  - Zotten
+  - Krypten
+  - Mikrovilli
