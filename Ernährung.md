@@ -140,6 +140,10 @@
   - Fahrrad fahren
   - pro Tag 30 bis 60 Minuten moderate körperliche Aktivität helfen dabei, Gewicht zu regulieren
 ## was bei Nahrungsaufnahme in Mundhöhle passiert
+- Nahrung zerkleinert
+- eingespeichelt
+- vorverdaut
+- geschmacklich geprüft
 ## physiologischer Schluckvorgang
 ## Dysphagie
 ### Anzeichen
