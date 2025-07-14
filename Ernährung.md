@@ -145,6 +145,10 @@
 - vorverdaut
 - geschmacklich geprüft
 ## physiologischer Schluckvorgang
+- orale Vorbereitungsphase
+- orale Transportphase
+- pharyngeale Phase
+- ösophageale Phase
 ## Dysphagie
 ### Anzeichen
 - häufiges Verschlucken, Husten und Würgen
