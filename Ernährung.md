@@ -309,6 +309,10 @@ Austrocknung/Flüssigkeitsmangel
 - Erbrechen
 ## chronologische Reihenfolge der Nahrung durch Verdauungstrakt(deutsche und lateinische Begriffe)
 ## allgemein Wandaufbau des Verdauungstraktes
+- Mukosa
+- Submukosa
+- Muskalaris
+- Serosa
 ## Aufgaben von Speiseröhre(Abbildung)
 ## Funktion von Magen(Abbildung)
 ## Funktion und Aufbau der Schleimhäute der einzelnen Organe(Magen inkl. Zellen, Dünndarm, Dickdarm) des Verdauungstraktes
