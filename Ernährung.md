@@ -308,6 +308,18 @@ Austrocknung/Flüssigkeitsmangel
 - Durchfall
 - Erbrechen
 ## chronologische Reihenfolge der Nahrung durch Verdauungstrakt(deutsche und lateinische Begriffe)
+1. Speiseröhre(Ösophagus)
+2. Magen(Gaster)
+3. Zwölffingerdarm(Duodenum)
+4. Leerdarm(Jejunum)
+5. Krummdarm(Ileum)
+6. Blinddarm(Caecum)
+7. aufsteigender Dickdarm(Colon ascendens)
+8. Querlaufender Dickdarm(Colon transversum)
+9. absteigender Dickdarm(Colon descendens)
+10. Sigmaschleife(Colon Sigmoideum)
+11. Mastdarm(Rektum)
+12. Analkanal(Canalis analis)
 ## allgemein Wandaufbau des Verdauungstraktes
 - Mukosa
 - Submukosa
