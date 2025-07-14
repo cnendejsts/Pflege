@@ -326,5 +326,9 @@ Austrocknung/Flüssigkeitsmangel
 - Muskalaris
 - Serosa
 ## Aufgaben von Speiseröhre(Abbildung)
+Durch die Speiseröhre (Ösophagus) gelangt die geschluckte Nahrung aus der Mundhöhle bzw. dem Rachen in den Magen
 ## Funktion von Magen(Abbildung)
+- Fortsetzung der Verdauung
+- Speicherung und Durchmischung des Mageninhaltes
+- portionsweise Weitergabe an den Zwölffingerdarm
 ## Funktion und Aufbau der Schleimhäute der einzelnen Organe(Magen inkl. Zellen, Dünndarm, Dickdarm) des Verdauungstraktes
