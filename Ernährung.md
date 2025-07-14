@@ -76,10 +76,7 @@
 - Rituale
   - Tischgebet vor dem Essen (z. B. in christlichen Familien)
   - Sonntagsbraten als Familienessen (z. B. in Deutschland)
-  - Traditionelles Essen bei Hochzeiten, Beerdigungen oder Taufen
-## Energiebedarf
-## Grund- & Leistungsbedarf einer Person mit Hilfe der Harris-Benedict-Formel und dem PAL-Wert
-## vergleichen und beurteilen den errechneten Energiebedarf mit den zugeführten Kalorien
+  - Traditionelles Essen bei Hochzeiten oder Beerdigungen
 ## 10 Regeln der vollwertigen Ernährung laut DGE
 1. Lebensmittelvielfalt genießen  
 - abwechslungsreich essen und überwiegend pflanzliche Lebensmittel wählen  
@@ -231,7 +228,6 @@ Austrocknung/Flüssigkeitsmangel
 - Schwitzen
 - Durchfall
 - Erbrechen
-## Flüssigkeitsbedarf
 ## Maßnahmen, die Flüssigkeitszufuhr erhöhen(in einem Fall)
 ## chronologische Reihenfolge der Nahrung durch Verdauungstrakt(deutsche und lateinische Begriffe)
 ## allgemein Wandaufbau des Verdauungstraktes
