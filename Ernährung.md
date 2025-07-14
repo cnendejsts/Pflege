@@ -207,10 +207,15 @@
 - Oberkörperhochlagerung nach dem Essen für 20-30 Minuten beibehalten
 ## Problematik im Umgang mit Dysphagie bei Nahrungsaufnahme
 ## Hilfsmittel bei Essen und Trinken
-- rutschfeste Tellerunterlage
-- Schneidbrett mit Halterung
-- Schnabelbecher
-- Becher mit Griffen
+- Antirutschmatte
+- Besteck mit gebogener Klinge
+- Einhandbesteck, Besteckhalter
+- Fixierschneidebrett
+- Trinkbecher mit Handgriff
+- Nasenbecher
+- Eierbecher und Teller mit Saugfuss
+- Schneidehilfe
+- Tellerranderhöhung
 ## Hilfsbedarf bei Essen und Trinken und entsprechende Maßnahmen der Hilfestellung und des Hilfsmitteleinsatzes planen
 ## Dehydration
 ### Definition
