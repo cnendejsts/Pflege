@@ -307,8 +307,8 @@ Austrocknung/Flüssigkeitsmangel
 - Schwitzen
 - Durchfall
 - Erbrechen
-## Maßnahmen, die Flüssigkeitszufuhr erhöhen(in einem Fall)
 ## chronologische Reihenfolge der Nahrung durch Verdauungstrakt(deutsche und lateinische Begriffe)
 ## allgemein Wandaufbau des Verdauungstraktes
-## Funktion der Speiseröhre, Magen(Abbildung)
+## Aufgaben von Speiseröhre(Abbildung)
+## Funktion von Magen(Abbildung)
 ## Funktion und Aufbau der Schleimhäute der einzelnen Organe(Magen inkl. Zellen, Dünndarm, Dickdarm) des Verdauungstraktes
