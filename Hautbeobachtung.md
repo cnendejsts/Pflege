@@ -64,3 +64,22 @@ Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
 - Urea 5-10%
 ### geeignete Creme
 ### wann werden Hände eingecremt
+## Beobachtungsprozess
+- Beobachtungsziel festlegen（明确观察目标）
+  - Vitalzeichen
+  - Hautzustand
+  - Verhalten
+- Beobachtung planen（制定观察计划）
+  - wann
+  - wie oft
+  - womit
+- Systematische Beobachtung durchführen（有目的地进行观察）
+  - objektiv und achtsam beobachten
+- Beobachtungen dokumentieren（记录观察结果）
+  - im Pflegebericht oder Pflegeplanung
+- Auswertung und Interpretation（分析与解释）
+  - Ergebnisse deuten
+  - Abweichungen erkennen
+- Pflegemaßnahmen ableiten（制定护理对策）
+  - Arzt informieren
+  - Maßnahmen anpassen
