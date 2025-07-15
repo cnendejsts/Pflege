@@ -83,3 +83,11 @@ Extremitäten (z. B. Hände, Füße) können bis zu 33 °C haben
 - Pflegemaßnahmen ableiten（制定护理对策）
   - Arzt informieren
   - Maßnahmen anpassen
+## Wahrnehmungsprozess
+- Reizaufnahme über die Sinnesorgane
+  - Sehen, Hören, Riechen (Pflegekraft sieht z. B. einen roten Fleck)
+- Weiterleitung der Reize ans Gehirn
+- Verarbeitung im Gehirn (Interpretation)
+  - Bedeutung wird zugeordnet (z. B. „Rötung = möglicher Dekubitus“)
+- Reaktion / Handlung
+  - Maßnahme ergreifen oder weiterleiten
