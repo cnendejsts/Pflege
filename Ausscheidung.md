@@ -137,13 +137,13 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
     - Azetongeruch(obstartig)
       - Diabetes Mellitus, beim Fasten
 - Menge in 24 Stunden
-  - Oligurie(< 500 ml)
-    - Flüssigkeitsmangel
-    - Herzinsuffizienz
-  - Anurie(< 100 ml)
+  - **An**urie(< 100 ml)
     - Nierenversangen
     - Schock
-  - Polyurie(> 2000 ml)
+  - **Olig**urie(< 500 ml)
+    - Flüssigkeitsmangel
+    - Herzinsuffizienz
+  - **Poly**urie(> 2000 ml)
     - Diabetes Mellitus
     - Deuretika
 - Veränderung des Harnstrahls
