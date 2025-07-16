@@ -311,7 +311,7 @@ Durch die Speiseröhre (Ösophagus) gelangt die geschluckte Nahrung aus der Mund
   - Aufgabe: Rückresorption von Wasser und Elektrolyten
   - Blinddarm(Caecum) mit Wurmfortsatz(Appendix vermiformis)
   - aufsteigender Dickdarm(Colon ascendens)
-  - querlaufender Dickdarm(Colon transversum)
+  - querliegender Dickdarm(Colon transversum)
   - absteigender Dickdarm(Colon descendens)
   - Sigma(Colon Sigmoideum)
   - Mastdarm(Rektum)
