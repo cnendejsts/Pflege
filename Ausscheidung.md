@@ -167,11 +167,12 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
 - Der Beutel muss unter Blasenniveau fixiert werden(Rückfluss)
 - Der Beutel darf keinen Kontakt zum Boden haben
 ## Vorgang der Defäkation
-- Stuhl sammelt sich im Rektum und dehnt die Wand
-- Das Dehnungssignal öffnet reflexhaft den inneren Schließmuskel und erzeugt Stuhldrang
-- Der äußere Schließmuskel hält willentlich zurück oder lässt los
-- Bei Loslassen drücken Beckenboden-Entspannung und Bauchpresse den Stuhl hinaus
-- Nach der Entleerung kontrahieren Schließmuskeln, der Beckenboden hebt sich und die Kontinenz ist wiederhergestellt
+- Stuhl sammelt sich im **Rektum** → die Wand dehnt sich
+- Dehnung löst einen **Reflex** aus → der **innere Schließmuskel** öffnet sich **automatisch**
+- Es entsteht **Stuhldrang**
+- Der **äußere Schließmuskel** kann **willentlich** halten oder loslassen
+- Beim Loslassen helfen **Beckenboden-Entspannung** und **Bauchpresse**, den Stuhl hinauszudrücken
+- Nach dem Entleeren **ziehen** sich die Schließmuskeln wieder **zusammen**, der Beckenboden **hebt** sich, die Kontinenz ist wiederhergestellt
 ## Beobachtungskriterien Stuhl
 - Menge
   - 120-300g/Tag
