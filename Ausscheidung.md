@@ -157,13 +157,10 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
   - Ursach
     - Prostataadenom
 ## Urinuntersuchungsmethoden
-- Spontanurin
-- Mittelstrahlurin
-- Morgenurin
+- Mittelstrahlurin + Teststreifen
 - Katheterurin
 - Sammelurin (24h)
 - Beutelurin (bei Säuglingen)
-- Schnelltests mit Teststreifen (U-Status) 
 ## Was ist beim Umgang mit Blasendauerkatheter zu beachten?
 - geknickter oder verdrehter Schlauch verhindert den Urinabfluss
 - Keine Manipulation am Katheter
