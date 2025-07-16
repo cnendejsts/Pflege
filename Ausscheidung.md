@@ -101,7 +101,7 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
   - unwillkürlich Harn lassen
   - Klient **lässt** die Hilfsmittelversorgung / personelle Unterstützung **nicht zu**
 ## Miktionsstörungen
-- Unfähigkeit zur willkürlichen Steuerung der Blasenentleerung
+- Unfähigkeit zur willkürlichen Steuerung der **Blasen**entleerung
 -> Harninkontinenz
 - vermehrtes nächtliches Wasserlassen
 -> **Nykt**urie
