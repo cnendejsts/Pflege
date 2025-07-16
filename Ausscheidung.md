@@ -145,7 +145,7 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
     - Herzinsuffizienz
   - **Poly**urie(> 2000 ml)
     - Diabetes Mellitus
-    - Deuretika
+    - Diuretika
 - Veränderung des Harnstrahls
   - Frühzeichen
     - häufiger Harndrang
