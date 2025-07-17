@@ -282,7 +282,7 @@ Austrocknung/Flüssigkeitsmangel
 5. Krummdarm(Ileum)
 6. Blinddarm(Caecum)
 7. aufsteigender Dickdarm(Colon ascendens)
-8. Querlaufender Dickdarm(Colon transversum)
+8. Querliegender Dickdarm(Colon transversum)
 9. absteigender Dickdarm(Colon descendens)
 10. Sigmaschleife(Colon Sigmoideum)
 11. Mastdarm(Rektum)
