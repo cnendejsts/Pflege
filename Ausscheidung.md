@@ -162,10 +162,10 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
 - Sammelurin (24h)
 - Beutelurin (bei Säuglingen)
 ## Was ist beim Umgang mit Blasendauerkatheter zu beachten?
-- geknickter oder verdrehter Schlauch verhindert den Urinabfluss
+- **geknickt**er oder **verdreht**er Schlauch verhindert den Urinabfluss
 - Keine Manipulation am Katheter(Harnwegsinfektion)
-- Der Beutel muss unter Blasenniveau fixiert werden(Rückfluss)
-- Der Beutel darf keinen Kontakt zum Boden haben
+- Der Beutel muss **unter Blasenniveau** fixiert werden(Rückfluss)
+- Der **Beutel** darf keinen Kontakt zum **Boden** haben
 ## Vorgang der Defäkation
 - Stuhl sammelt sich im **Rektum** → die Wand dehnt sich
 - Dehnung löst einen **Reflex** aus → der **innere Schließmuskel** öffnet sich **automatisch**
