@@ -40,7 +40,7 @@
     - Osteoporose
     - Rückenschmerzen
   - neurologische Erkrankungen
-    - arkinson
+    - M. Parkinson
     - Schlaganfall
     - Multiple Sklerose
   - Verdauungsprobleme
