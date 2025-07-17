@@ -78,21 +78,21 @@
   - Sonntagsbraten als Familienessen (z. B. in Deutschland)
   - Traditionelles Essen bei Hochzeiten oder Beerdigungen
 ## 10 Regeln der vollwertigen Ernährung laut DGE
-1. Lebensmittelvielfalt genießen  
+1. **Lebensmittelvielfalt genießen**  
 - abwechslungsreich essen und überwiegend pflanzliche Lebensmittel wählen  
 - Je abwechslungsreicher Sie essen, desto geringer ist das Risiko einer einseitigen Ernährung
-2. Gemüse & Obst - nimm "5 am Tag"
+2. **Gemüse & Obst - nimm "5 am Tag"**
 - min. 3 Portionen Gemüse & 2 Portionen Obst am Tag
 - Hülsenfrüchte wie Linsen, Kichererbsen, Bohnen sowie ungesalzene Nüsse
 - Risiko von Herz-Kreislauf-Erkrankung senken
-3. Vollkorn wählen
+3. **Vollkorn wählen**
 - Getreideprodukte wie Brot, Nudeln, Reis und Mehl(nicht Weißmehl)
 - Ballststoffe aus Vollkorn senken das Risiko für 
   - Diabetes mellitus Typ 2
   - Fettstoffwechselstörung
   - Dickdarmkrebs
   - Herz-Kreislauf-Erkrankung
-4. mit tierischen Lebensmitteln die Auswahl ergänzen
+4. **mit tierischen Lebensmitteln die Auswahl ergänzen**
 - Milch & Milchprodukte
   - verfügbares Protein, Vitamin B2, Calcium
   - wie Joghurt und Käse täglich
@@ -102,7 +102,7 @@
 - Fleisch nicht mehr als 300 bis 600g pro Woche
   - Fleisch verfügbares Eisen, Selen, Zink
   - Fleisch und insbesondere Wurst enthalten aber auch ungünstige Inhaltsstoffe
-5. Gesundheitsfördernde Fette nutzen
+5. **Gesundheitsfördernde Fette nutzen**
 - pflanzliche Öl wie Rapsöl
   - viel Kalorie liefern
   - lebensnotwendige Fettsäure und Vitamin E
@@ -113,13 +113,13 @@
   - Süßwaren
   - Fast-Food
   - Fertigprodukte
-6. Zucker & Salz einsparen
+6. **Zucker & Salz einsparen**
 - mit Kräutern und Gewürzen würzen
 - Zucker Kariesrisiko erhöhen
 - Salz Blutdruck erhöhen
 - Salz weniger als 6g am Tag
 - Salz mit Jod & Fluorid
-7. am besten Wasser trinken
+7. **am besten Wasser trinken**
 - rund 1,5 Liter jeden Tag
 - ungesüßter Tee
 - zuckergesüßte Getränke
@@ -127,13 +127,13 @@
   - Diabetes mellitus Typ 2
 - alkoholische Getränke
   - Krebs
-8. schonend zubereiten
+8. **schonend zubereiten**
 - beim Braten, Grillen, Backen und Frittieren das Verbrennen von Lebensmitteln vermeiden
 - schonende Zubereitung erhält natürlichen Geschmack und schont Nährstoffe
 - verbrannte Stellen enthalten schädliche Stoffe
-9. achtsam essen & genießen
+9. **achtsam essen & genießen**
 - langsames, bewusstes Essen fördert Genuss und Sättigungsempfinden
-10. auf Gewicht achten & in Bewegung bleiben
+10. **auf Gewicht achten & in Bewegung bleiben**
 - regelmäßiger Sport
 - aktiver Alltag
   - öfter zu Fuß gehen
