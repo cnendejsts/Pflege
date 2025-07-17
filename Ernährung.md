@@ -147,8 +147,8 @@
 ## physiologischer Schluckvorgang
 - orale Vorbereitungsphase
 - orale Transportphase
-- pharyngeale Phase
-- ösophageale Phase
+- **pharyn**geale Phase
+- **ösopha**geale Phase
 ## Dysphagie
 ### Anzeichen
 - häufiges Verschlucken, Husten und Würgen
