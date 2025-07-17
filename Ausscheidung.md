@@ -123,7 +123,7 @@ Bei der Miktion wird der Urin über die Harnröhre ausgeschieden.
     - orange
       - Vitamin B Präparate
   - pathologisch
-    - dundelgelb-braun
+    - dunkelgelb-braun
       - Flüssigkeitsmangel
     - bierfarben mit gelbem Schaum
       - Bilirubinurie
