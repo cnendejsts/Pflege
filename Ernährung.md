@@ -290,7 +290,7 @@ Austrocknung/Flüssigkeitsmangel
 ## allgemein Wandaufbau des Verdauungstraktes
 - Mukosa
 - Submukosa
-- Muskalaris
+- Muskularis
 - Serosa
 ## Aufgaben von Speiseröhre(Abbildung)
 Durch die Speiseröhre (Ösophagus) gelangt die geschluckte Nahrung aus der Mundhöhle bzw. dem Rachen in den Magen
