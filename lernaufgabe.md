@@ -7,4 +7,8 @@ Besonders eindrücklich war für mich die Situation im Notfall, wo man die Vital
 In der Praxis habe ich gemerkt, dass der Zustand der Person (z. B. Schmerzen, Unruhe, kognitive Einschränkungen) eine große Rolle spielt. Auch die Tageszeit, Medikation (z. B. Antihypertensiva) und der Umgangston beeinflussen das Ergebnis. Wichtig ist auch, die Patient*innen vorher gut zu informieren, damit sie kooperieren.
 ## Wie haben sich Veränderungen der Vitalfunktionen geäußert?
 Bei einem Patienten mit COPD ist mir aufgefallen, dass die Atemfrequenz plötzlich gestiegen ist (über 24/min), Hautfarbe war leicht bläulich und er wirkte erschöpft. Ich habe die Werte dokumentiert und direkt weitergegeben.
-
+# Beobachten Sie Ihre PA, wie Sie die Vitalzeichenkontrolle bei der zu pflegenden Person durchführt
+## Wie informiert und berät Ihre PA die zu pflegende Person über Ihr Vorhaben?
+## Wie gestaltet Sie die Interaktion mit der Person?
+## Worauf achtet Ihre PA bei der Einschätzung der Vitalzeichen?
+## Was dokumentiert und wo dokumentiert die PA ihre Ergebnisse?
