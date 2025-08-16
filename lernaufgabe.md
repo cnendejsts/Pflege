@@ -40,6 +40,6 @@ Bei einem Patienten mit COPD ist mir aufgefallen, dass die Atemfrequenz plötzli
 - Im Notfall habe ich den Zeitdruck deutlich gespürt (Zeit = Leben). 
 - Unsicher war ich gelegentlich bei manuellem RR in lauter Umgebung und beim unauffälligen Zählen der AF.
 ## Was möchte ich noch weiter üben Oder in ähnlichen Situationen anders machen?
-- Manuelle Blutdruckmessung (Korotkow-Töne) unter Störgeräuschen trainieren
+- Manuelle Blutdruckmessung unter Störgeräuschen trainieren
 - Geschwindigkeit + Genauigkeit unter Stress weiter verbessern
 - Abweichungen standardisiert weitergeben.
