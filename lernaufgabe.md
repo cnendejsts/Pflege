@@ -23,7 +23,23 @@ Bei einem Patienten mit COPD ist mir aufgefallen, dass die Atemfrequenz plötzli
 - Messqualität: richtige Manschettengröße, Arm in Herzhöhe, 3–5 Min Ruhe, Wiederholung bei unplausiblen Werten; bei Arrhythmie manuell messen und Puls 60 s zählen
 - Kontext: vergleicht mit Vorwerten, Normbereichen
 - Klinische Zeichen: Hautfarbe, Schweiß, Dyspnoe, Schwindel, Bewusstsein.
-- Handeln: definiert Grenzwerte (RR Hypotonie<100/60 Hypertonie>140/90, Puls Tachykadie>100 Brachykadie<60, Temperatur >37.3) → sofortige Rückmeldung an Schwester
+- Handeln: definiert Grenzwerte (RR Hypotonie<100/60 Hypertonie>140/90, Puls Tachykadie>100 Bradykadie<60, Temperatur >37.3) → sofortige Rückmeldung an Schwester
 ## Was dokumentiert und wo dokumentiert die PA ihre Ergebnisse?
 - Was: Uhrzeit, Seite (z. B. „RR, 7:30 Uhr, rechts, sitzend, Manschette M), RR/Puls/AF/Temp/SpO₂ mit Einheiten, Abweichungen zum Vorwert
 - Wo: in der Akte von Patienten; zusätzlich Kurzvermerk in der Dienstübergabe
+# Reflektieren Sie die durchgeführte Einschätzung zusammen mit Ihrer PA
+## Wie ist mir die Einschätzung gelungen?
+- Ich habe Abweichungen zuverlässig erkannt (z. B. post-OP RR 95/55, Puls 112; COPD-Pat. AF 26/min).
+- Unplausible Werte habe ich wiederholt (manuell mit Stethoskop) und mit Vorwerten verglichen
+- Bei Red-Flags (Bradykardie, Tachykardie, Fieber, Hypertonie, Hypotonie) habe ich sofort PA informiert
+## Wie ist mir die Wahrnehmung der Beobachtungskriterien gelungen?
+- Ruhephase, richtige Manschettengröße, Arm in Herzhöhe, gleiche Messseite und Hygiene (Desinfektion der Geräte) beachtet.
+- Puls 60 s gezählt bei Arrhythmie, Temperatur mit IR-Thermometer gemessen.
+- Bei sprechenden/unruhigen Pat. habe ich nochmals angeleitet („bitte kurz still sitzen, nicht sprechen“).
+## Wie habe ich die Situation erlebt? Welche Unsicherheiten hatte ich?
+- Im Notfall habe ich den Zeitdruck deutlich gespürt (Zeit = Leben). 
+- Unsicher war ich gelegentlich bei manuellem RR in lauter Umgebung und beim unauffälligen Zählen der AF.
+## Was möchte ich noch weiter üben Oder in ähnlichen Situationen anders machen?
+- Manuelle Blutdruckmessung (Korotkow-Töne) unter Störgeräuschen trainieren
+- Geschwindigkeit + Genauigkeit unter Stress weiter verbessern
+- Abweichungen standardisiert weitergeben.
